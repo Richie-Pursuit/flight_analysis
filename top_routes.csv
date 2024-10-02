@@ -1,0 +1,11 @@
+"city1";"city2";"total_passengers";"avg_fare";"number_of_trips"
+"Los Angeles, CA (Metropolitan Area)";"San Francisco, CA (Metropolitan Area)";2145874.0;119.197747;1629
+"Miami, FL (Metropolitan Area)";"New York City, NY (Metropolitan Area)";1610441.0;178.581266;1438
+"Los Angeles, CA (Metropolitan Area)";"New York City, NY (Metropolitan Area)";1173016.0;315.225626;3221
+"New York City, NY (Metropolitan Area)";"Orlando, FL";1034797.0;153.3887;731
+"Chicago, IL";"New York City, NY (Metropolitan Area)";1019094.0;200.841984;1472
+"New York City, NY (Metropolitan Area)";"San Francisco, CA (Metropolitan Area)";833970.0;331.230666;2102
+"Boston, MA (Metropolitan Area)";"Washington, DC (Metropolitan Area)";760250.0;164.730299;1104
+"Atlanta, GA (Metropolitan Area)";"New York City, NY (Metropolitan Area)";742844.0;204.999424;729
+"Los Angeles, CA (Metropolitan Area)";"Seattle, WA";696162.0;156.128037;591
+"Las Vegas, NV";"Los Angeles, CA (Metropolitan Area)";687331.0;107.558202;573

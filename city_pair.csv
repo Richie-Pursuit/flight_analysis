@@ -1,0 +1,1267 @@
+"city1";"city2";"avg_fare";"total_passengers";"number_of_trips"
+"Allentown/Bethlehem/Easton, PA";"Tampa, FL (Metropolitan Area)";173.891923;2523.0;26
+"Albuquerque, NM";"Dallas/Fort Worth, TX";158.453644;86459.0;236
+"Albuquerque, NM";"Phoenix, AZ";151.236462;45207.0;65
+"Albuquerque, NM";"Boston, MA (Metropolitan Area)";243.58512;23685.0;291
+"Albuquerque, NM";"Washington, DC (Metropolitan Area)";256.166141;66567.0;368
+"Albuquerque, NM";"Chicago, IL";207.733871;40279.0;248
+"Albuquerque, NM";"Houston, TX";183.692101;42797.0;276
+"Albuquerque, NM";"New York City, NY (Metropolitan Area)";257.76581;49107.0;704
+"Albuquerque, NM";"San Francisco, CA (Metropolitan Area)";183.043955;76627.0;354
+"Albuquerque, NM";"Los Angeles, CA (Metropolitan Area)";166.073458;116859.0;590
+"Nantucket, MA";"New York City, NY (Metropolitan Area)";212.571771;8225.0;96
+"Colorado Springs, CO";"Dallas/Fort Worth, TX";191.241295;32374.0;193
+"Colorado Springs, CO";"Phoenix, AZ";131.515455;7737.0;33
+"Colorado Springs, CO";"Washington, DC (Metropolitan Area)";263.856094;27410.0;297
+"Colorado Springs, CO";"Los Angeles, CA (Metropolitan Area)";201.871914;30473.0;465
+"Dallas/Fort Worth, TX";"Pittsburgh, PA";234.586818;54713.0;220
+"Dallas/Fort Worth, TX";"Denver, CO";170.939279;245126.0;222
+"Dallas/Fort Worth, TX";"Tucson, AZ";231.430136;26981.0;221
+"Dallas/Fort Worth, TX";"Phoenix, AZ";198.898996;171639.0;239
+"Dallas/Fort Worth, TX";"Hartford, CT";292.826419;35220.0;215
+"Dallas/Fort Worth, TX";"Seattle, WA";242.896903;130607.0;226
+"Dallas/Fort Worth, TX";"El Paso, TX";158.854492;94546.0;236
+"Dallas/Fort Worth, TX";"Nashville, TN";204.162121;86478.0;231
+"Dallas/Fort Worth, TX";"Washington, DC (Metropolitan Area)";235.417126;325156.0;682
+"Dallas/Fort Worth, TX";"St. Louis, MO";175.233203;114684.0;231
+"Dallas/Fort Worth, TX";"Myrtle Beach, SC";172.39;417.0;4
+"Dallas/Fort Worth, TX";"Jacksonville, FL";209.960224;44818.0;223
+"Dallas/Fort Worth, TX";"Detroit, MI";223.802918;113415.0;233
+"Dallas/Fort Worth, TX";"Des Moines, IA";218.411182;11683.0;110
+"Dallas/Fort Worth, TX";"Houston, TX";124.506621;395782.0;515
+"Dallas/Fort Worth, TX";"Orlando, FL";183.096167;192482.0;227
+"Dallas/Fort Worth, TX";"Panama City, FL";210.655882;4798.0;34
+"Dallas/Fort Worth, TX";"Valparaiso, FL";227.846984;7546.0;63
+"Dallas/Fort Worth, TX";"Fresno, CA";231.545;1206.0;16
+"Dallas/Fort Worth, TX";"Minneapolis/St. Paul, MN";203.84516;128106.0;219
+"Dallas/Fort Worth, TX";"New York City, NY (Metropolitan Area)";267.406041;450970.0;1205
+"Dallas/Fort Worth, TX";"Fort Myers, FL";228.205689;20951.0;167
+"Dallas/Fort Worth, TX";"Greenville/Spartanburg, SC";237.0562;9402.0;100
+"Dallas/Fort Worth, TX";"Spokane, WA";227.316875;1146.0;16
+"Dallas/Fort Worth, TX";"Grand Rapids, MI";243.002212;10229.0;104
+"Dallas/Fort Worth, TX";"Harlingen/San Benito, TX";155.378158;29791.0;190
+"Dallas/Fort Worth, TX";"Las Vegas, NV";190.907181;226434.0;227
+"Dallas/Fort Worth, TX";"Indianapolis, IN";214.76467;60268.0;227
+"Dallas/Fort Worth, TX";"San Francisco, CA (Metropolitan Area)";246.777783;259544.0;681
+"Dallas/Fort Worth, TX";"Miami, FL (Metropolitan Area)";204.40204;176513.0;446
+"Dallas/Fort Worth, TX";"Los Angeles, CA (Metropolitan Area)";231.586952;472998.0;1073
+"Dallas/Fort Worth, TX";"Little Rock, AR";123.367797;61872.0;236
+"Dallas/Fort Worth, TX";"Lubbock, TX";126.635847;68309.0;236
+"Dallas/Fort Worth, TX";"Louisville, KY";224.103991;31174.0;223
+"Dallas/Fort Worth, TX";"Midland/Odessa, TX";138.262034;54955.0;236
+"Dallas/Fort Worth, TX";"Sacramento, CA";255.886608;48505.0;227
+"Dallas/Fort Worth, TX";"Tampa, FL (Metropolitan Area)";200.806531;106273.0;245
+"Dallas/Fort Worth, TX";"Kansas City, MO";152.40287;122223.0;230
+"Dallas/Fort Worth, TX";"San Antonio, TX";130.851737;174834.0;236
+"Dallas/Fort Worth, TX";"Memphis, TN";228.30578;40202.0;218
+"Dallas/Fort Worth, TX";"Omaha, NE";213.156233;36244.0;223
+"Dallas/Fort Worth, TX";"Milwaukee, WI";202.098832;49816.0;214
+"Dallas/Fort Worth, TX";"New Orleans, LA";135.582447;139336.0;237
+"Dallas/Fort Worth, TX";"San Diego, CA";223.627565;114341.0;230
+"Dallas/Fort Worth, TX";"Norfolk, VA (Metropolitan Area)";239.815685;29871.0;387
+"Dallas/Fort Worth, TX";"Pensacola, FL";206.95069;7342.0;58
+"Dallas/Fort Worth, TX";"West Palm Beach/Palm Beach, FL";234.062228;23773.0;202
+"Dallas/Fort Worth, TX";"Portland, OR";244.56875;62175.0;224
+"Dallas/Fort Worth, TX";"Philadelphia, PA";236.641312;134261.0;221
+"Dallas/Fort Worth, TX";"Raleigh/Durham, NC";234.523818;68940.0;220
+"Dallas/Fort Worth, TX";"Richmond, VA";258.352731;30469.0;216
+"Dallas/Fort Worth, TX";"Reno, NV";243.109689;24887.0;225
+"Dallas/Fort Worth, TX";"Salt Lake City, UT";228.065796;78229.0;226
+"Dallas/Fort Worth, TX";"Tulsa, OK";121.423475;64742.0;236
+"Dallas/Fort Worth, TX";"Savannah, GA";216.282105;4283.0;38
+"Dallas/Fort Worth, TX";"Knoxville, TN";253.081111;4004.0;45
+"Pittsburgh, PA";"San Francisco, CA (Metropolitan Area)";302.44057;51332.0;351
+"Pittsburgh, PA";"Tampa, FL (Metropolitan Area)";141.170773;72601.0;181
+"Huntsville, AL";"Washington, DC (Metropolitan Area)";265.539862;39187.0;362
+"Albany, NY";"Washington, DC (Metropolitan Area)";184.427393;55724.0;349
+"Albany, NY";"Chicago, IL";210.854316;32594.0;234
+"Albany, NY";"Miami, FL (Metropolitan Area)";193.784565;34924.0;230
+"Albany, NY";"Los Angeles, CA (Metropolitan Area)";289.595612;19462.0;417
+"Albany, NY";"Tampa, FL (Metropolitan Area)";163.419545;30013.0;132
+"Amarillo, TX";"Dallas/Fort Worth, TX";122.829661;52826.0;236
+"Denver, CO";"Phoenix, AZ";132.707286;183110.0;70
+"Denver, CO";"Washington, DC (Metropolitan Area)";235.501963;291027.0;377
+"Denver, CO";"Houston, TX";189.609384;194799.0;276
+"Denver, CO";"New York City, NY (Metropolitan Area)";248.60103;343950.0;728
+"Denver, CO";"San Francisco, CA (Metropolitan Area)";203.502458;347821.0;354
+"Denver, CO";"Miami, FL (Metropolitan Area)";213.377331;138704.0;236
+"Denver, CO";"Los Angeles, CA (Metropolitan Area)";177.114169;469549.0;590
+"Denver, CO";"Tampa, FL (Metropolitan Area)";207.191887;89415.0;159
+"Denver, CO";"Norfolk, VA (Metropolitan Area)";236.910643;15733.0;140
+"Atlanta, GA (Metropolitan Area)";"Dallas/Fort Worth, TX";177.082568;296411.0;222
+"Atlanta, GA (Metropolitan Area)";"Phoenix, AZ";233.088143;67745.0;70
+"Atlanta, GA (Metropolitan Area)";"Cleveland, OH (Metropolitan Area)";170.82161;98492.0;236
+"Atlanta, GA (Metropolitan Area)";"Boston, MA (Metropolitan Area)";223.808644;260950.0;354
+"Atlanta, GA (Metropolitan Area)";"Washington, DC (Metropolitan Area)";175.448733;487235.0;371
+"Atlanta, GA (Metropolitan Area)";"Chicago, IL";155.95788;365318.0;250
+"Atlanta, GA (Metropolitan Area)";"Columbus, OH";184.298542;29519.0;48
+"Atlanta, GA (Metropolitan Area)";"Houston, TX";172.332464;186371.0;276
+"Atlanta, GA (Metropolitan Area)";"New York City, NY (Metropolitan Area)";204.999424;742844.0;729
+"Atlanta, GA (Metropolitan Area)";"San Francisco, CA (Metropolitan Area)";297.917994;186903.0;354
+"Atlanta, GA (Metropolitan Area)";"Miami, FL (Metropolitan Area)";143.813983;384039.0;236
+"Atlanta, GA (Metropolitan Area)";"Los Angeles, CA (Metropolitan Area)";275.311051;314714.0;590
+"Atlanta, GA (Metropolitan Area)";"Tampa, FL (Metropolitan Area)";150.175397;165517.0;126
+"Atlanta, GA (Metropolitan Area)";"Norfolk, VA (Metropolitan Area)";177.481992;62918.0;236
+"Austin, TX";"Dallas/Fort Worth, TX";132.308101;142414.0;237
+"Austin, TX";"Phoenix, AZ";204.883676;41895.0;68
+"Austin, TX";"Boston, MA (Metropolitan Area)";247.158983;67715.0;354
+"Austin, TX";"Washington, DC (Metropolitan Area)";253.745623;103727.0;361
+"Austin, TX";"Chicago, IL";195.71932;106136.0;250
+"Austin, TX";"New York City, NY (Metropolitan Area)";271.756898;152519.0;706
+"Austin, TX";"San Francisco, CA (Metropolitan Area)";220.731497;150175.0;354
+"Austin, TX";"Miami, FL (Metropolitan Area)";196.742543;52186.0;232
+"Austin, TX";"Los Angeles, CA (Metropolitan Area)";194.128356;158460.0;590
+"Austin, TX";"Tampa, FL (Metropolitan Area)";190.227273;23152.0;99
+"Asheville, NC";"New York City, NY (Metropolitan Area)";224.494072;9152.0;194
+"Asheville, NC";"Miami, FL (Metropolitan Area)";197.902742;8553.0;62
+"Asheville, NC";"Tampa, FL (Metropolitan Area)";172.607568;4073.0;37
+"Tucson, AZ";"Washington, DC (Metropolitan Area)";288.815151;39660.0;365
+"Phoenix, AZ";"Pittsburgh, PA";243.865735;26240.0;68
+"Phoenix, AZ";"Seattle, WA";174.767101;152989.0;69
+"Phoenix, AZ";"Washington, DC (Metropolitan Area)";278.93119;171937.0;378
+"Phoenix, AZ";"St. Louis, MO";216.031765;45256.0;68
+"Phoenix, AZ";"Sioux Falls, SD";181.978854;12876.0;96
+"Phoenix, AZ";"Spokane, WA";186.204935;24272.0;77
+"Phoenix, AZ";"San Francisco, CA (Metropolitan Area)";136.632716;400353.0;394
+"Phoenix, AZ";"Sacramento, CA";159.836824;74112.0;85
+"Phoenix, AZ";"Tampa, FL (Metropolitan Area)";212.611954;49794.0;174
+"Phoenix, AZ";"San Antonio, TX";209.893333;29937.0;66
+"Phoenix, AZ";"San Diego, CA";135.545405;92214.0;74
+"Phoenix, AZ";"Portland, OR";178.5;87579.0;74
+"Phoenix, AZ";"Raleigh/Durham, NC";253.713538;21940.0;65
+"Phoenix, AZ";"Reno, NV";175.805692;28041.0;65
+"Phoenix, AZ";"Salt Lake City, UT";167.622059;82432.0;68
+"Phoenix, AZ";"Tulsa, OK";209.252167;11424.0;60
+"Hartford, CT";"Phoenix, AZ";284.285942;15112.0;69
+"Hartford, CT";"Washington, DC (Metropolitan Area)";167.350938;112958.0;373
+"Hartford, CT";"San Francisco, CA (Metropolitan Area)";303.254824;39370.0;340
+"Hartford, CT";"Miami, FL (Metropolitan Area)";169.559283;96267.0;237
+"Hartford, CT";"Los Angeles, CA (Metropolitan Area)";297.874089;57835.0;587
+"Hartford, CT";"Tampa, FL (Metropolitan Area)";152.512417;78455.0;120
+"Seattle, WA";"Washington, DC (Metropolitan Area)";296.011995;176179.0;391
+"Seattle, WA";"Tampa, FL (Metropolitan Area)";234.204056;42227.0;143
+"Birmingham, AL";"Dallas/Fort Worth, TX";192.813974;39431.0;229
+"Birmingham, AL";"Washington, DC (Metropolitan Area)";214.287934;52601.0;363
+"Birmingham, AL";"Chicago, IL";173.26636;41454.0;250
+"Birmingham, AL";"Houston, TX";173.902399;36468.0;271
+"Birmingham, AL";"New York City, NY (Metropolitan Area)";247.396991;36899.0;688
+"Birmingham, AL";"Miami, FL (Metropolitan Area)";191.516552;15626.0;174
+"Birmingham, AL";"Los Angeles, CA (Metropolitan Area)";274.501398;25283.0;565
+"Birmingham, AL";"Tampa, FL (Metropolitan Area)";144.045091;28124.0;110
+"El Paso, TX";"Phoenix, AZ";149.973846;20165.0;65
+"El Paso, TX";"Washington, DC (Metropolitan Area)";272.933526;27680.0;363
+"El Paso, TX";"Houston, TX";182.615761;44356.0;276
+"El Paso, TX";"New York City, NY (Metropolitan Area)";320.241529;13315.0;399
+"El Paso, TX";"Los Angeles, CA (Metropolitan Area)";176.656559;64906.0;590
+"Cleveland, OH (Metropolitan Area)";"Dallas/Fort Worth, TX";240.068886;54824.0;404
+"Cleveland, OH (Metropolitan Area)";"Denver, CO";221.743136;56798.0;236
+"Cleveland, OH (Metropolitan Area)";"Phoenix, AZ";214.961529;61872.0;242
+"Cleveland, OH (Metropolitan Area)";"Seattle, WA";267.648402;24457.0;194
+"Cleveland, OH (Metropolitan Area)";"Nashville, TN";151.000169;41263.0;236
+"Cleveland, OH (Metropolitan Area)";"Washington, DC (Metropolitan Area)";182.235115;96785.0;696
+"Cleveland, OH (Metropolitan Area)";"St. Louis, MO";153.6754;33387.0;200
+"Cleveland, OH (Metropolitan Area)";"Myrtle Beach, SC";119.786667;2435.0;24
+"Cleveland, OH (Metropolitan Area)";"Houston, TX";229.699655;51406.0;521
+"Cleveland, OH (Metropolitan Area)";"Orlando, FL";146.00822;111623.0;236
+"Cleveland, OH (Metropolitan Area)";"Minneapolis/St. Paul, MN";261.431581;34919.0;234
+"Cleveland, OH (Metropolitan Area)";"New York City, NY (Metropolitan Area)";209.197917;153563.0;1368
+"Cleveland, OH (Metropolitan Area)";"Fort Myers, FL";163.07089;60854.0;236
+"Cleveland, OH (Metropolitan Area)";"Las Vegas, NV";196.112797;96253.0;236
+"Cleveland, OH (Metropolitan Area)";"San Francisco, CA (Metropolitan Area)";289.508483;57670.0;692
+"Cleveland, OH (Metropolitan Area)";"Miami, FL (Metropolitan Area)";179.641801;87877.0;472
+"Cleveland, OH (Metropolitan Area)";"Los Angeles, CA (Metropolitan Area)";284.0313;94056.0;1085
+"Cleveland, OH (Metropolitan Area)";"Tampa, FL (Metropolitan Area)";144.260714;75117.0;308
+"Cleveland, OH (Metropolitan Area)";"San Diego, CA";249.708913;25098.0;230
+"Cleveland, OH (Metropolitan Area)";"Philadelphia, PA";264.822582;30696.0;213
+"Cleveland, OH (Metropolitan Area)";"Sarasota/Bradenton, FL";160.390385;2204.0;26
+"Nashville, TN";"Phoenix, AZ";237.692941;33325.0;68
+"Nashville, TN";"Washington, DC (Metropolitan Area)";194.120703;136284.0;370
+"Nashville, TN";"New York City, NY (Metropolitan Area)";217.520056;159342.0;710
+"Nashville, TN";"San Francisco, CA (Metropolitan Area)";244.524492;55287.0;354
+"Nashville, TN";"Tampa, FL (Metropolitan Area)";150.191678;62595.0;143
+"Boise, ID";"Dallas/Fort Worth, TX";255.226591;4269.0;44
+"Boise, ID";"Phoenix, AZ";155.473146;23383.0;89
+"Boise, ID";"Chicago, IL";262.725625;3195.0;32
+"Boise, ID";"New York City, NY (Metropolitan Area)";283.2475;181.0;4
+"Boise, ID";"San Francisco, CA (Metropolitan Area)";168.652542;51501.0;354
+"Boise, ID";"Los Angeles, CA (Metropolitan Area)";166.335112;64615.0;579
+"Boston, MA (Metropolitan Area)";"Dallas/Fort Worth, TX";263.580961;174604.0;666
+"Boston, MA (Metropolitan Area)";"Pittsburgh, PA";193.115932;98118.0;354
+"Boston, MA (Metropolitan Area)";"Denver, CO";245.035282;170582.0;354
+"Boston, MA (Metropolitan Area)";"Phoenix, AZ";238.14972;131276.0;357
+"Boston, MA (Metropolitan Area)";"Seattle, WA";276.43935;119518.0;354
+"Boston, MA (Metropolitan Area)";"Cleveland, OH (Metropolitan Area)";205.145367;82961.0;708
+"Boston, MA (Metropolitan Area)";"Nashville, TN";190.84726;81989.0;354
+"Boston, MA (Metropolitan Area)";"Buffalo, NY";190.145804;48767.0;336
+"Boston, MA (Metropolitan Area)";"Bozeman, MT";316.068095;1185.0;21
+"Boston, MA (Metropolitan Area)";"Washington, DC (Metropolitan Area)";164.730299;760250.0;1104
+"Boston, MA (Metropolitan Area)";"Chicago, IL";184.105603;418354.0;746
+"Boston, MA (Metropolitan Area)";"Charleston, SC";198.373848;37453.0;330
+"Boston, MA (Metropolitan Area)";"Charlotte, NC";213.245791;127274.0;354
+"Boston, MA (Metropolitan Area)";"Columbus, OH";202.605897;51731.0;351
+"Boston, MA (Metropolitan Area)";"St. Louis, MO";235.408814;67833.0;354
+"Boston, MA (Metropolitan Area)";"Myrtle Beach, SC";168.209725;26690.0;291
+"Boston, MA (Metropolitan Area)";"Jacksonville, FL";170.187062;65315.0;354
+"Boston, MA (Metropolitan Area)";"Detroit, MI";231.401475;120067.0;366
+"Boston, MA (Metropolitan Area)";"Houston, TX";248.381725;119698.0;806
+"Boston, MA (Metropolitan Area)";"Orlando, FL";150.568479;463038.0;355
+"Boston, MA (Metropolitan Area)";"Minneapolis/St. Paul, MN";267.956667;125886.0;354
+"Boston, MA (Metropolitan Area)";"New York City, NY (Metropolitan Area)";234.128236;521908.0;1491
+"Boston, MA (Metropolitan Area)";"Fort Myers, FL";175.047051;158954.0;356
+"Boston, MA (Metropolitan Area)";"Las Vegas, NV";224.96726;159371.0;354
+"Boston, MA (Metropolitan Area)";"Indianapolis, IN";210.233842;55934.0;354
+"Boston, MA (Metropolitan Area)";"San Francisco, CA (Metropolitan Area)";295.15951;358223.0;1062
+"Boston, MA (Metropolitan Area)";"Miami, FL (Metropolitan Area)";183.287895;384165.0;708
+"Boston, MA (Metropolitan Area)";"Los Angeles, CA (Metropolitan Area)";287.977595;355174.0;1705
+"Boston, MA (Metropolitan Area)";"Louisville, KY";206.861685;20755.0;279
+"Boston, MA (Metropolitan Area)";"Cincinnati, OH";264.344972;50380.0;354
+"Boston, MA (Metropolitan Area)";"Sacramento, CA";275.582229;26618.0;323
+"Boston, MA (Metropolitan Area)";"Tampa, FL (Metropolitan Area)";162.745144;247022.0;383
+"Boston, MA (Metropolitan Area)";"Kansas City, MO";215.20293;56343.0;355
+"Boston, MA (Metropolitan Area)";"San Antonio, TX";244.712678;34288.0;351
+"Boston, MA (Metropolitan Area)";"Milwaukee, WI";218.07531;49594.0;339
+"Boston, MA (Metropolitan Area)";"New Orleans, LA";202.782542;63164.0;354
+"Boston, MA (Metropolitan Area)";"San Diego, CA";267.13613;114975.0;354
+"Boston, MA (Metropolitan Area)";"Norfolk, VA (Metropolitan Area)";189.079586;48124.0;701
+"Boston, MA (Metropolitan Area)";"West Palm Beach/Palm Beach, FL";172.281808;143568.0;354
+"Boston, MA (Metropolitan Area)";"Portland, OR";287.898503;53940.0;354
+"Boston, MA (Metropolitan Area)";"Philadelphia, PA";197.635;234542.0;354
+"Boston, MA (Metropolitan Area)";"Raleigh/Durham, NC";168.201469;126586.0;354
+"Boston, MA (Metropolitan Area)";"Richmond, VA";203.250678;51028.0;354
+"Boston, MA (Metropolitan Area)";"Salt Lake City, UT";280.02404;58137.0;354
+"Boston, MA (Metropolitan Area)";"Savannah, GA";202.713994;27776.0;318
+"Boston, MA (Metropolitan Area)";"Sarasota/Bradenton, FL";188.592846;22829.0;246
+"Burlington, VT";"Washington, DC (Metropolitan Area)";220.894063;16971.0;192
+"Buffalo, NY";"Dallas/Fort Worth, TX";216.302378;15634.0;143
+"Buffalo, NY";"Washington, DC (Metropolitan Area)";164.666412;64702.0;354
+"Buffalo, NY";"Chicago, IL";166.487131;52444.0;237
+"Buffalo, NY";"New York City, NY (Metropolitan Area)";172.35859;177263.0;702
+"Buffalo, NY";"Miami, FL (Metropolitan Area)";167.346795;57522.0;234
+"Buffalo, NY";"Los Angeles, CA (Metropolitan Area)";264.248739;38039.0;571
+"Buffalo, NY";"Tampa, FL (Metropolitan Area)";150.719744;52003.0;117
+"Bozeman, MT";"Dallas/Fort Worth, TX";225.63125;619.0;8
+"Bozeman, MT";"Washington, DC (Metropolitan Area)";322.4525;727.0;12
+"Bozeman, MT";"Chicago, IL";265.597273;1138.0;11
+"Bozeman, MT";"New York City, NY (Metropolitan Area)";365.010625;3803.0;64
+"Bozeman, MT";"San Francisco, CA (Metropolitan Area)";229.813922;3569.0;51
+"Bozeman, MT";"Los Angeles, CA (Metropolitan Area)";229.299091;5822.0;110
+"Washington, DC (Metropolitan Area)";"West Palm Beach/Palm Beach, FL";166.594959;104591.0;367
+"Chicago, IL";"Colorado Springs, CO";183.457912;10643.0;91
+"Chicago, IL";"Dallas/Fort Worth, TX";198.370456;355183.0;461
+"Chicago, IL";"Pittsburgh, PA";158.557251;107250.0;251
+"Chicago, IL";"Denver, CO";165.204922;325229.0;256
+"Chicago, IL";"Tucson, AZ";218.610122;42990.0;246
+"Chicago, IL";"Phoenix, AZ";187.247019;352186.0;265
+"Chicago, IL";"Hartford, CT";213.204819;86592.0;249
+"Chicago, IL";"Seattle, WA";223.086367;182030.0;267
+"Chicago, IL";"El Paso, TX";219.281387;26897.0;238
+"Chicago, IL";"Cleveland, OH (Metropolitan Area)";154.041983;162800.0;464
+"Chicago, IL";"Nashville, TN";137.331339;133790.0;254
+"Chicago, IL";"Washington, DC (Metropolitan Area)";169.203342;548518.0;775
+"Chicago, IL";"Columbus, OH";133.351142;122773.0;254
+"Chicago, IL";"St. Louis, MO";130.874824;165981.0;255
+"Chicago, IL";"Myrtle Beach, SC";137.501783;16366.0;129
+"Chicago, IL";"Jacksonville, FL";190.457218;58790.0;248
+"Chicago, IL";"Detroit, MI";126.919101;199308.0;267
+"Chicago, IL";"Houston, TX";199.557187;248172.0;551
+"Chicago, IL";"Orlando, FL";153.866473;388375.0;258
+"Chicago, IL";"Valparaiso, FL";141.8825;393.0;4
+"Chicago, IL";"Fresno, CA";233.27;451.0;4
+"Chicago, IL";"Minneapolis/St. Paul, MN";156.97879;310793.0;248
+"Chicago, IL";"New York City, NY (Metropolitan Area)";200.841984;1019094.0;1472
+"Chicago, IL";"Fort Myers, FL";166.121714;171419.0;245
+"Chicago, IL";"Greenville/Spartanburg, SC";205.30036;15344.0;139
+"Chicago, IL";"Spokane, WA";238.6995;1587.0;20
+"Chicago, IL";"Las Vegas, NV";176.009112;380209.0;259
+"Chicago, IL";"San Francisco, CA (Metropolitan Area)";234.956884;431591.0;751
+"Chicago, IL";"Miami, FL (Metropolitan Area)";174.29988;404597.0;500
+"Chicago, IL";"Los Angeles, CA (Metropolitan Area)";228.334591;628643.0;1222
+"Chicago, IL";"Louisville, KY";136.328724;55147.0;243
+"Chicago, IL";"Cincinnati, OH";224.658724;58292.0;243
+"Chicago, IL";"Sacramento, CA";251.001306;52208.0;245
+"Chicago, IL";"Tampa, FL (Metropolitan Area)";156.031257;240763.0;342
+"Chicago, IL";"Kansas City, MO";135.139243;178129.0;251
+"Chicago, IL";"San Antonio, TX";200.869595;78035.0;247
+"Chicago, IL";"Memphis, TN";197.793105;48348.0;248
+"Chicago, IL";"Omaha, NE";143.483293;77100.0;246
+"Chicago, IL";"New Orleans, LA";171.541968;103530.0;249
+"Chicago, IL";"San Diego, CA";220.572423;169335.0;260
+"Chicago, IL";"Norfolk, VA (Metropolitan Area)";186.262241;43064.0;464
+"Chicago, IL";"Pensacola, FL";205.327639;7167.0;72
+"Chicago, IL";"Oklahoma City, OK";186.028664;32999.0;247
+"Chicago, IL";"West Palm Beach/Palm Beach, FL";196.160711;52275.0;239
+"Chicago, IL";"Portland, OR";249.472772;89703.0;267
+"Chicago, IL";"Philadelphia, PA";190.441265;257652.0;253
+"Chicago, IL";"Portland, ME";227.339412;4927.0;51
+"Chicago, IL";"Raleigh/Durham, NC";169.519881;118310.0;253
+"Chicago, IL";"Richmond, VA";226.136987;36671.0;239
+"Chicago, IL";"Reno, NV";208.777277;29477.0;224
+"Chicago, IL";"Salt Lake City, UT";217.10816;83574.0;250
+"Chicago, IL";"Savannah, GA";198.851203;18096.0;158
+"Chicago, IL";"Sarasota/Bradenton, FL";182.097536;31719.0;211
+"Chicago, IL";"Syracuse, NY";243.125722;18385.0;180
+"Chicago, IL";"Knoxville, TN";217.960982;15576.0;163
+"Charleston, SC";"Dallas/Fort Worth, TX";224.764821;14556.0;112
+"Charleston, SC";"Washington, DC (Metropolitan Area)";190.597652;65340.0;362
+"Charleston, SC";"Chicago, IL";205.386158;31732.0;190
+"Charleston, SC";"Houston, TX";228.913333;9314.0;90
+"Charleston, SC";"New York City, NY (Metropolitan Area)";186.33213;93638.0;709
+"Charleston, SC";"Miami, FL (Metropolitan Area)";168.408286;10682.0;70
+"Charleston, SC";"Los Angeles, CA (Metropolitan Area)";319.082269;11612.0;238
+"Cedar Rapids/Iowa City, IA";"Phoenix, AZ";193.668375;9015.0;80
+"Charlotte, NC";"Dallas/Fort Worth, TX";248.867409;82907.0;220
+"Charlotte, NC";"Phoenix, AZ";310.22697;31113.0;66
+"Charlotte, NC";"Cleveland, OH (Metropolitan Area)";230.961681;31775.0;232
+"Charlotte, NC";"Washington, DC (Metropolitan Area)";217.789643;123843.0;364
+"Charlotte, NC";"Chicago, IL";197.315363;111000.0;248
+"Charlotte, NC";"Houston, TX";249.457925;47185.0;265
+"Charlotte, NC";"New York City, NY (Metropolitan Area)";211.689201;285683.0;713
+"Charlotte, NC";"San Francisco, CA (Metropolitan Area)";329.447825;59707.0;354
+"Charlotte, NC";"Miami, FL (Metropolitan Area)";197.937288;88172.0;236
+"Charlotte, NC";"Los Angeles, CA (Metropolitan Area)";315.250392;84865.0;587
+"Charlotte, NC";"Tampa, FL (Metropolitan Area)";217.452893;43474.0;121
+"Columbus, OH";"Dallas/Fort Worth, TX";229.543423;55317.0;222
+"Columbus, OH";"Denver, CO";221.2175;21215.0;48
+"Columbus, OH";"Phoenix, AZ";242.337612;29843.0;67
+"Columbus, OH";"Seattle, WA";264.511951;10323.0;41
+"Columbus, OH";"Washington, DC (Metropolitan Area)";162.18847;83649.0;366
+"Columbus, OH";"Myrtle Beach, SC";105.88;353.0;4
+"Columbus, OH";"Houston, TX";220.844348;34035.0;276
+"Columbus, OH";"Orlando, FL";153.983091;43818.0;55
+"Columbus, OH";"Minneapolis/St. Paul, MN";267.942857;13048.0;49
+"Columbus, OH";"New York City, NY (Metropolitan Area)";207.078895;120023.0;715
+"Columbus, OH";"Fort Myers, FL";177.152037;21074.0;54
+"Columbus, OH";"Las Vegas, NV";217.342;27535.0;50
+"Columbus, OH";"San Francisco, CA (Metropolitan Area)";247.860313;43636.0;351
+"Columbus, OH";"Miami, FL (Metropolitan Area)";159.81854;59318.0;274
+"Columbus, OH";"Los Angeles, CA (Metropolitan Area)";241.832559;74294.0;590
+"Columbus, OH";"Tampa, FL (Metropolitan Area)";130.655153;66159.0;163
+"Columbus, OH";"San Diego, CA";269.703125;6058.0;32
+"Columbus, OH";"Philadelphia, PA";284.257805;11918.0;41
+"Columbus, OH";"Sarasota/Bradenton, FL";150.033182;2679.0;22
+"St. Louis, MO";"Washington, DC (Metropolitan Area)";206.737197;148304.0;371
+"St. Louis, MO";"Tampa, FL (Metropolitan Area)";168.919643;56604.0;140
+"Myrtle Beach, SC";"Washington, DC (Metropolitan Area)";173.99;6760.0;75
+"Myrtle Beach, SC";"New York City, NY (Metropolitan Area)";166.319944;71036.0;712
+"Jacksonville, FL";"Washington, DC (Metropolitan Area)";171.61273;110281.0;370
+"Jacksonville, FL";"New York City, NY (Metropolitan Area)";182.522025;149409.0;711
+"Jacksonville, FL";"Miami, FL (Metropolitan Area)";131.858233;67333.0;232
+"Jacksonville, FL";"Los Angeles, CA (Metropolitan Area)";285.490188;37296.0;586
+"Detroit, MI";"Phoenix, AZ";215.413793;97709.0;116
+"Detroit, MI";"Washington, DC (Metropolitan Area)";182.928225;188109.0;383
+"Detroit, MI";"Houston, TX";214.67654;79769.0;289
+"Detroit, MI";"New York City, NY (Metropolitan Area)";214.529387;297817.0;734
+"Detroit, MI";"San Francisco, CA (Metropolitan Area)";269.940472;113216.0;381
+"Detroit, MI";"Miami, FL (Metropolitan Area)";167.127073;198424.0;246
+"Detroit, MI";"Los Angeles, CA (Metropolitan Area)";261.887829;196069.0;631
+"Detroit, MI";"Tampa, FL (Metropolitan Area)";152.571296;138051.0;162
+"Detroit, MI";"Norfolk, VA (Metropolitan Area)";215.216491;4349.0;57
+"Des Moines, IA";"Phoenix, AZ";171.099417;21810.0;103
+"Des Moines, IA";"Washington, DC (Metropolitan Area)";226.927178;23955.0;326
+"Des Moines, IA";"Los Angeles, CA (Metropolitan Area)";243.27275;22049.0;520
+"Des Moines, IA";"Tampa, FL (Metropolitan Area)";175.6135;3647.0;40
+"Houston, TX";"Pittsburgh, PA";265.253913;48710.0;276
+"Houston, TX";"Phoenix, AZ";190.403027;103591.0;294
+"Houston, TX";"Seattle, WA";237.160326;81250.0;276
+"Houston, TX";"Nashville, TN";175.352214;71001.0;271
+"Houston, TX";"Washington, DC (Metropolitan Area)";238.531006;229714.0;855
+"Houston, TX";"St. Louis, MO";178.162319;75960.0;276
+"Houston, TX";"Jacksonville, FL";200.547311;27785.0;264
+"Houston, TX";"Orlando, FL";181.592302;137484.0;278
+"Houston, TX";"Panama City, FL";187.934286;1148.0;14
+"Houston, TX";"Minneapolis/St. Paul, MN";268.248116;56997.0;276
+"Houston, TX";"New York City, NY (Metropolitan Area)";263.159562;343917.0;1507
+"Houston, TX";"Las Vegas, NV";177.088043;177649.0;276
+"Houston, TX";"Indianapolis, IN";198.345109;42110.0;276
+"Houston, TX";"San Francisco, CA (Metropolitan Area)";246.189827;175312.0;810
+"Houston, TX";"Miami, FL (Metropolitan Area)";189.793007;146071.0;552
+"Houston, TX";"Los Angeles, CA (Metropolitan Area)";237.494411;302363.0;1290
+"Houston, TX";"Lubbock, TX";141.420412;32649.0;267
+"Houston, TX";"Louisville, KY";190.432802;16902.0;207
+"Houston, TX";"Midland/Odessa, TX";166.411868;61043.0;273
+"Houston, TX";"Sacramento, CA";240.521167;31664.0;257
+"Houston, TX";"Tampa, FL (Metropolitan Area)";180.74148;67644.0;277
+"Houston, TX";"Kansas City, MO";181.539746;61162.0;276
+"Houston, TX";"Memphis, TN";209.03808;23600.0;224
+"Houston, TX";"Omaha, NE";202.907092;22812.0;251
+"Houston, TX";"Milwaukee, WI";222.719;16793.0;160
+"Houston, TX";"New Orleans, LA";132.48308;185975.0;276
+"Houston, TX";"San Diego, CA";213.853841;76402.0;276
+"Houston, TX";"Norfolk, VA (Metropolitan Area)";229.146684;17365.0;374
+"Houston, TX";"Pensacola, FL";150.034286;1042.0;14
+"Houston, TX";"Oklahoma City, OK";156.747628;66154.0;274
+"Houston, TX";"Portland, OR";246.24781;36860.0;274
+"Houston, TX";"Philadelphia, PA";248.785688;94081.0;276
+"Houston, TX";"Raleigh/Durham, NC";217.823686;40493.0;255
+"Houston, TX";"Richmond, VA";246.711552;5684.0;58
+"Houston, TX";"Salt Lake City, UT";226.964167;54902.0;276
+"Houston, TX";"Tulsa, OK";159.049529;76185.0;276
+"Houston, TX";"Savannah, GA";213.600833;1220.0;12
+"Orlando, FL";"Phoenix, AZ";232.687229;52280.0;83
+"Orlando, FL";"Washington, DC (Metropolitan Area)";147.083476;468276.0;374
+"Orlando, FL";"San Francisco, CA (Metropolitan Area)";257.126844;119172.0;358
+"Panama City, FL";"Washington, DC (Metropolitan Area)";257.063333;5446.0;78
+"Valparaiso, FL";"Washington, DC (Metropolitan Area)";229.535238;6064.0;84
+"Eugene, OR";"Phoenix, AZ";157.117083;4770.0;48
+"Eugene, OR";"San Francisco, CA (Metropolitan Area)";156.940792;18564.0;240
+"Eugene, OR";"Los Angeles, CA (Metropolitan Area)";178.473333;31079.0;537
+"Key West, FL";"Washington, DC (Metropolitan Area)";268.913016;3876.0;63
+"Key West, FL";"New York City, NY (Metropolitan Area)";248.593973;11463.0;297
+"Fargo, ND";"Phoenix, AZ";214.365897;10344.0;78
+"Kalispell, MT";"Los Angeles, CA (Metropolitan Area)";292.972;1762.0;40
+"Minneapolis/St. Paul, MN";"Phoenix, AZ";176.276582;130481.0;79
+"Minneapolis/St. Paul, MN";"Washington, DC (Metropolitan Area)";236.545205;173104.0;365
+"Minneapolis/St. Paul, MN";"New York City, NY (Metropolitan Area)";271.384003;233745.0;712
+"Minneapolis/St. Paul, MN";"San Francisco, CA (Metropolitan Area)";278.460141;157430.0;354
+"Minneapolis/St. Paul, MN";"Tampa, FL (Metropolitan Area)";195.792616;77010.0;172
+"New York City, NY (Metropolitan Area)";"Pittsburgh, PA";215.301388;148235.0;713
+"New York City, NY (Metropolitan Area)";"Phoenix, AZ";260.439319;276520.0;734
+"New York City, NY (Metropolitan Area)";"Seattle, WA";304.569808;233397.0;728
+"New York City, NY (Metropolitan Area)";"Washington, DC (Metropolitan Area)";202.29445;448924.0;1991
+"New York City, NY (Metropolitan Area)";"St. Louis, MO";234.235503;150741.0;716
+"New York City, NY (Metropolitan Area)";"Orlando, FL";153.3887;1034797.0;731
+"New York City, NY (Metropolitan Area)";"Wilmington, NC";207.113253;13305.0;332
+"New York City, NY (Metropolitan Area)";"San Francisco, CA (Metropolitan Area)";331.230666;833970.0;2102
+"New York City, NY (Metropolitan Area)";"Sacramento, CA";296.840154;53764.0;713
+"New York City, NY (Metropolitan Area)";"Tampa, FL (Metropolitan Area)";164.067067;489949.0;832
+"New York City, NY (Metropolitan Area)";"San Antonio, TX";266.350296;79089.0;710
+"New York City, NY (Metropolitan Area)";"Omaha, NE";264.821659;36910.0;681
+"New York City, NY (Metropolitan Area)";"San Diego, CA";296.379571;214376.0;723
+"New York City, NY (Metropolitan Area)";"Norfolk, VA (Metropolitan Area)";204.105872;63900.0;1267
+"New York City, NY (Metropolitan Area)";"Pensacola, FL";224.086734;9574.0;297
+"New York City, NY (Metropolitan Area)";"Oklahoma City, OK";274.768366;29381.0;704
+"New York City, NY (Metropolitan Area)";"West Palm Beach/Palm Beach, FL";171.087675;566692.0;714
+"New York City, NY (Metropolitan Area)";"Portland, OR";311.067406;100979.0;717
+"New York City, NY (Metropolitan Area)";"Portland, ME";214.540927;41286.0;593
+"New York City, NY (Metropolitan Area)";"Raleigh/Durham, NC";170.428558;251470.0;721
+"New York City, NY (Metropolitan Area)";"Richmond, VA";238.543495;64091.0;681
+"New York City, NY (Metropolitan Area)";"Reno, NV";298.937752;23989.0;614
+"New York City, NY (Metropolitan Area)";"Rochester, NY";190.334499;86702.0;689
+"New York City, NY (Metropolitan Area)";"Salt Lake City, UT";299.750815;128024.0;712
+"New York City, NY (Metropolitan Area)";"Savannah, GA";190.246113;73255.0;705
+"New York City, NY (Metropolitan Area)";"Sarasota/Bradenton, FL";191.280104;61432.0;672
+"New York City, NY (Metropolitan Area)";"Syracuse, NY";183.10937;41982.0;603
+"New York City, NY (Metropolitan Area)";"Traverse City, MI";259.828;178.0;5
+"Fort Myers, FL";"Washington, DC (Metropolitan Area)";164.398098;90320.0;368
+"Fort Myers, FL";"Houston, TX";198.026563;3483.0;32
+"Fort Myers, FL";"New York City, NY (Metropolitan Area)";176.118445;242992.0;714
+"Fort Myers, FL";"Los Angeles, CA (Metropolitan Area)";310.59642;13182.0;324
+"Greenville/Spartanburg, SC";"Washington, DC (Metropolitan Area)";194.276564;19609.0;227
+"Greenville/Spartanburg, SC";"Houston, TX";214.24975;3447.0;40
+"Greenville/Spartanburg, SC";"New York City, NY (Metropolitan Area)";216.106;37523.0;680
+"Grand Rapids, MI";"Phoenix, AZ";200.880192;13421.0;104
+"Grand Rapids, MI";"Washington, DC (Metropolitan Area)";194.930127;17274.0;237
+"Grand Rapids, MI";"New York City, NY (Metropolitan Area)";241.306436;29357.0;665
+"Grand Rapids, MI";"Los Angeles, CA (Metropolitan Area)";292.986637;23755.0;553
+"Grand Rapids, MI";"Tampa, FL (Metropolitan Area)";152.101879;22396.0;149
+"Greensboro/High Point, NC";"New York City, NY (Metropolitan Area)";197.843667;64435.0;679
+"Las Vegas, NV";"Phoenix, AZ";109.058087;114644.0;115
+"Las Vegas, NV";"Washington, DC (Metropolitan Area)";244.047745;228778.0;377
+"Las Vegas, NV";"New York City, NY (Metropolitan Area)";243.959259;453737.0;729
+"Las Vegas, NV";"San Francisco, CA (Metropolitan Area)";117.784282;598051.0;355
+"Las Vegas, NV";"Miami, FL (Metropolitan Area)";214.460636;145209.0;236
+"Las Vegas, NV";"Los Angeles, CA (Metropolitan Area)";107.558202;687331.0;573
+"Las Vegas, NV";"Tampa, FL (Metropolitan Area)";185.51044;78505.0;159
+"Las Vegas, NV";"Norfolk, VA (Metropolitan Area)";254.586;21692.0;180
+"Indianapolis, IN";"Phoenix, AZ";220.315479;36643.0;73
+"Indianapolis, IN";"Washington, DC (Metropolitan Area)";180.81874;97948.0;365
+"Indianapolis, IN";"New York City, NY (Metropolitan Area)";211.505443;114389.0;711
+"Indianapolis, IN";"San Francisco, CA (Metropolitan Area)";242.975367;57231.0;354
+"Indianapolis, IN";"Miami, FL (Metropolitan Area)";167.108263;74163.0;236
+"Indianapolis, IN";"Los Angeles, CA (Metropolitan Area)";234.591763;96110.0;590
+"Indianapolis, IN";"Tampa, FL (Metropolitan Area)";124.97397;87736.0;199
+"Jackson, WY";"New York City, NY (Metropolitan Area)";425.305878;6071.0;131
+"Jackson, WY";"Los Angeles, CA (Metropolitan Area)";269.1392;769.0;25
+"Jackson/Vicksburg, MS";"Washington, DC (Metropolitan Area)";214.932724;24329.0;312
+"San Francisco, CA (Metropolitan Area)";"Tucson, AZ";173.779463;54070.0;354
+"San Francisco, CA (Metropolitan Area)";"Seattle, WA";133.460676;601034.0;355
+"San Francisco, CA (Metropolitan Area)";"Washington, DC (Metropolitan Area)";299.977255;401715.0;1104
+"San Francisco, CA (Metropolitan Area)";"St. Louis, MO";245.26339;72660.0;354
+"San Francisco, CA (Metropolitan Area)";"Spokane, WA";157.28322;50247.0;354
+"San Francisco, CA (Metropolitan Area)";"Tampa, FL (Metropolitan Area)";256.627047;59306.0;403
+"San Francisco, CA (Metropolitan Area)";"Santa Barbara, CA";158.324331;14246.0;157
+"Miami, FL (Metropolitan Area)";"Pittsburgh, PA";167.979153;82215.0;236
+"Miami, FL (Metropolitan Area)";"Phoenix, AZ";242.803414;75569.0;249
+"Miami, FL (Metropolitan Area)";"Seattle, WA";267.030042;69567.0;236
+"Miami, FL (Metropolitan Area)";"Nashville, TN";176.179746;81877.0;236
+"Miami, FL (Metropolitan Area)";"Washington, DC (Metropolitan Area)";161.425778;508291.0;739
+"Miami, FL (Metropolitan Area)";"St. Louis, MO";198.583475;69711.0;236
+"Miami, FL (Metropolitan Area)";"Orlando, FL";116.990586;73492.0;239
+"Miami, FL (Metropolitan Area)";"Minneapolis/St. Paul, MN";220.754619;95960.0;236
+"Miami, FL (Metropolitan Area)";"New York City, NY (Metropolitan Area)";178.581266;1610441.0;1438
+"Miami, FL (Metropolitan Area)";"San Francisco, CA (Metropolitan Area)";275.168376;165697.0;708
+"Miami, FL (Metropolitan Area)";"Sacramento, CA";274.055;12860.0;134
+"Miami, FL (Metropolitan Area)";"Tampa, FL (Metropolitan Area)";117.407928;111998.0;251
+"Miami, FL (Metropolitan Area)";"San Antonio, TX";214.904915;31071.0;236
+"Miami, FL (Metropolitan Area)";"Milwaukee, WI";176.599569;43072.0;232
+"Miami, FL (Metropolitan Area)";"New Orleans, LA";162.60089;77999.0;236
+"Miami, FL (Metropolitan Area)";"San Diego, CA";259.807585;51261.0;236
+"Miami, FL (Metropolitan Area)";"Norfolk, VA (Metropolitan Area)";180.874407;36364.0;472
+"Miami, FL (Metropolitan Area)";"Portland, OR";271.785696;27476.0;230
+"Miami, FL (Metropolitan Area)";"Philadelphia, PA";164.734641;249224.0;237
+"Miami, FL (Metropolitan Area)";"Raleigh/Durham, NC";151.180636;88860.0;236
+"Miami, FL (Metropolitan Area)";"Richmond, VA";173.914364;34529.0;220
+"Miami, FL (Metropolitan Area)";"Salt Lake City, UT";255.908534;41666.0;232
+"Miami, FL (Metropolitan Area)";"Syracuse, NY";184.383989;19394.0;178
+"Miami, FL (Metropolitan Area)";"Tallahassee, FL";180.338056;13565.0;108
+"Los Angeles, CA (Metropolitan Area)";"Pittsburgh, PA";279.359676;70564.0;586
+"Los Angeles, CA (Metropolitan Area)";"Tucson, AZ";146.85922;96421.0;590
+"Los Angeles, CA (Metropolitan Area)";"Phoenix, AZ";117.858631;547284.0;599
+"Los Angeles, CA (Metropolitan Area)";"Seattle, WA";156.128037;696162.0;591
+"Los Angeles, CA (Metropolitan Area)";"Nashville, TN";244.856246;118119.0;586
+"Los Angeles, CA (Metropolitan Area)";"Washington, DC (Metropolitan Area)";283.324103;519841.0;1818
+"Los Angeles, CA (Metropolitan Area)";"Wichita, KS";242.230079;13829.0;381
+"Los Angeles, CA (Metropolitan Area)";"St. Louis, MO";232.318288;128551.0;590
+"Los Angeles, CA (Metropolitan Area)";"Orlando, FL";246.26113;223703.0;593
+"Los Angeles, CA (Metropolitan Area)";"Minneapolis/St. Paul, MN";251.939288;203871.0;590
+"Los Angeles, CA (Metropolitan Area)";"New York City, NY (Metropolitan Area)";315.225626;1173016.0;3221
+"Los Angeles, CA (Metropolitan Area)";"Spokane, WA";177.057561;66430.0;578
+"Los Angeles, CA (Metropolitan Area)";"San Francisco, CA (Metropolitan Area)";119.197747;2145874.0;1629
+"Los Angeles, CA (Metropolitan Area)";"Miami, FL (Metropolitan Area)";270.251359;309819.0;1177
+"Los Angeles, CA (Metropolitan Area)";"Louisville, KY";270.455;35240.0;586
+"Los Angeles, CA (Metropolitan Area)";"Sacramento, CA";119.125539;588716.0;594
+"Los Angeles, CA (Metropolitan Area)";"Tampa, FL (Metropolitan Area)";253.809687;95348.0;639
+"Los Angeles, CA (Metropolitan Area)";"San Antonio, TX";206.098661;95056.0;590
+"Los Angeles, CA (Metropolitan Area)";"Memphis, TN";296.563993;44617.0;586
+"Los Angeles, CA (Metropolitan Area)";"Medford, OR";197.49;22095.0;477
+"Los Angeles, CA (Metropolitan Area)";"Omaha, NE";200.124034;54823.0;590
+"Los Angeles, CA (Metropolitan Area)";"Milwaukee, WI";236.742983;63874.0;590
+"Los Angeles, CA (Metropolitan Area)";"Missoula, MT";218.346727;1882.0;55
+"Los Angeles, CA (Metropolitan Area)";"New Orleans, LA";239.153051;116778.0;590
+"Los Angeles, CA (Metropolitan Area)";"Norfolk, VA (Metropolitan Area)";327.052766;36509.0;1063
+"Los Angeles, CA (Metropolitan Area)";"Oklahoma City, OK";229.492835;47413.0;589
+"Los Angeles, CA (Metropolitan Area)";"West Palm Beach/Palm Beach, FL";283.274791;20457.0;455
+"Los Angeles, CA (Metropolitan Area)";"Portland, OR";154.283492;383232.0;590
+"Los Angeles, CA (Metropolitan Area)";"Philadelphia, PA";296.467385;203953.0;589
+"Los Angeles, CA (Metropolitan Area)";"Santa Rosa, CA";179.622981;18023.0;161
+"Los Angeles, CA (Metropolitan Area)";"Raleigh/Durham, NC";274.823543;75790.0;587
+"Los Angeles, CA (Metropolitan Area)";"Richmond, VA";322.740332;22329.0;482
+"Los Angeles, CA (Metropolitan Area)";"Reno, NV";135.213669;145460.0;586
+"Los Angeles, CA (Metropolitan Area)";"Salt Lake City, UT";142.404102;342051.0;590
+"Los Angeles, CA (Metropolitan Area)";"Tulsa, OK";233.987918;39225.0;586
+"Los Angeles, CA (Metropolitan Area)";"Savannah, GA";332.896327;1541.0;49
+"Los Angeles, CA (Metropolitan Area)";"Syracuse, NY";293.276012;6045.0;173
+"Little Rock, AR";"Los Angeles, CA (Metropolitan Area)";244.310817;24068.0;526
+"Louisville, KY";"Washington, DC (Metropolitan Area)";176.49837;70943.0;362
+"Louisville, KY";"New York City, NY (Metropolitan Area)";229.936762;47052.0;701
+"Louisville, KY";"Miami, FL (Metropolitan Area)";191.697434;27846.0;226
+"Louisville, KY";"Tampa, FL (Metropolitan Area)";141.318611;32873.0;144
+"Cincinnati, OH";"Dallas/Fort Worth, TX";267.139224;40269.0;219
+"Cincinnati, OH";"Phoenix, AZ";180.500805;16735.0;87
+"Cincinnati, OH";"Washington, DC (Metropolitan Area)";214.986749;59140.0;363
+"Cincinnati, OH";"Houston, TX";260.076561;22776.0;221
+"Cincinnati, OH";"New York City, NY (Metropolitan Area)";260.147595;103191.0;711
+"Cincinnati, OH";"San Francisco, CA (Metropolitan Area)";334.975395;36609.0;354
+"Cincinnati, OH";"Miami, FL (Metropolitan Area)";192.015297;56015.0;236
+"Cincinnati, OH";"Los Angeles, CA (Metropolitan Area)";333.164158;53890.0;582
+"Cincinnati, OH";"Tampa, FL (Metropolitan Area)";159.100745;43328.0;161
+"Sacramento, CA";"Washington, DC (Metropolitan Area)";298.740135;57477.0;371
+"Tampa, FL (Metropolitan Area)";"Washington, DC (Metropolitan Area)";163.108766;270217.0;397
+"Kansas City, MO";"Phoenix, AZ";183.501909;69080.0;110
+"Kansas City, MO";"Washington, DC (Metropolitan Area)";198.655865;123907.0;370
+"Kansas City, MO";"New York City, NY (Metropolitan Area)";233.665668;113803.0;711
+"Kansas City, MO";"San Francisco, CA (Metropolitan Area)";218.717135;73812.0;363
+"Kansas City, MO";"Miami, FL (Metropolitan Area)";189.646287;54591.0;237
+"Kansas City, MO";"Los Angeles, CA (Metropolitan Area)";203.636256;129040.0;601
+"Kansas City, MO";"Tampa, FL (Metropolitan Area)";158.520692;43566.0;159
+"San Antonio, TX";"Washington, DC (Metropolitan Area)";244.31163;101579.0;362
+"San Antonio, TX";"San Francisco, CA (Metropolitan Area)";226.701751;47223.0;354
+"San Antonio, TX";"Tampa, FL (Metropolitan Area)";193.1409;22096.0;100
+"Memphis, TN";"Phoenix, AZ";214.314857;5056.0;35
+"Memphis, TN";"Washington, DC (Metropolitan Area)";222.405882;54950.0;374
+"Memphis, TN";"New York City, NY (Metropolitan Area)";255.81072;65736.0;708
+"Memphis, TN";"Miami, FL (Metropolitan Area)";200.215763;31075.0;236
+"Omaha, NE";"Phoenix, AZ";166.331383;36098.0;94
+"Omaha, NE";"Washington, DC (Metropolitan Area)";208.256393;49938.0;366
+"Omaha, NE";"San Francisco, CA (Metropolitan Area)";215.280179;29850.0;336
+"Omaha, NE";"Tampa, FL (Metropolitan Area)";168.675556;7958.0;72
+"Milwaukee, WI";"Phoenix, AZ";196.71;47679.0;74
+"Milwaukee, WI";"Washington, DC (Metropolitan Area)";173.299454;77226.0;366
+"Milwaukee, WI";"New York City, NY (Metropolitan Area)";199.284548;102042.0;697
+"Milwaukee, WI";"San Francisco, CA (Metropolitan Area)";245.317037;43270.0;324
+"Milwaukee, WI";"Tampa, FL (Metropolitan Area)";144.987176;51332.0;170
+"Madison, WI";"New York City, NY (Metropolitan Area)";236.66323;29764.0;647
+"New Orleans, LA";"Phoenix, AZ";238.718971;18863.0;68
+"New Orleans, LA";"Washington, DC (Metropolitan Area)";200.617292;144742.0;373
+"New Orleans, LA";"New York City, NY (Metropolitan Area)";212.064993;191336.0;715
+"New Orleans, LA";"San Francisco, CA (Metropolitan Area)";242.216751;70344.0;354
+"New Orleans, LA";"Tampa, FL (Metropolitan Area)";129.134646;51217.0;127
+"Martha's Vineyard, MA";"New York City, NY (Metropolitan Area)";224.623111;3109.0;45
+"San Diego, CA";"Washington, DC (Metropolitan Area)";295.93504;174469.0;373
+"San Diego, CA";"San Francisco, CA (Metropolitan Area)";118.756723;652433.0;354
+"San Diego, CA";"Tampa, FL (Metropolitan Area)";240.274597;28708.0;124
+"Norfolk, VA (Metropolitan Area)";"Seattle, WA";299.812411;10900.0;112
+"Norfolk, VA (Metropolitan Area)";"Orlando, FL";149.777669;47629.0;236
+"Norfolk, VA (Metropolitan Area)";"Tampa, FL (Metropolitan Area)";161.034118;22741.0;221
+"Norfolk, VA (Metropolitan Area)";"San Diego, CA";304.775636;31323.0;236
+"Pensacola, FL";"Washington, DC (Metropolitan Area)";202.552327;27854.0;361
+"Oklahoma City, OK";"Phoenix, AZ";224.872687;16354.0;67
+"Oklahoma City, OK";"Washington, DC (Metropolitan Area)";238.178544;43424.0;364
+"Portland, OR";"Washington, DC (Metropolitan Area)";295.073607;76700.0;377
+"Portland, OR";"San Francisco, CA (Metropolitan Area)";131.320876;352107.0;354
+"Portland, OR";"Tampa, FL (Metropolitan Area)";242.877821;13759.0;78
+"Philadelphia, PA";"Phoenix, AZ";276.241061;57497.0;66
+"Philadelphia, PA";"San Francisco, CA (Metropolitan Area)";314.063164;148484.0;354
+"Philadelphia, PA";"Tampa, FL (Metropolitan Area)";162.754013;149519.0;152
+"Palm Springs, CA";"San Francisco, CA (Metropolitan Area)";161.899884;52896.0;346
+"Portland, ME";"Washington, DC (Metropolitan Area)";187.048452;38779.0;310
+"Bend/Redmond, OR";"San Francisco, CA (Metropolitan Area)";229.070952;1647.0;21
+"Bend/Redmond, OR";"Los Angeles, CA (Metropolitan Area)";220.706947;8643.0;190
+"Raleigh/Durham, NC";"Washington, DC (Metropolitan Area)";168.749698;104240.0;364
+"Raleigh/Durham, NC";"San Francisco, CA (Metropolitan Area)";298.141723;66888.0;354
+"Raleigh/Durham, NC";"Tampa, FL (Metropolitan Area)";133.936475;56480.0;139
+"Reno, NV";"Washington, DC (Metropolitan Area)";279.503766;21338.0;316
+"Rochester, NY";"Washington, DC (Metropolitan Area)";177.912277;33581.0;347
+"Salt Lake City, UT";"Washington, DC (Metropolitan Area)";276.713008;100227.0;369
+"Salt Lake City, UT";"San Francisco, CA (Metropolitan Area)";152.752655;185839.0;354
+"Salt Lake City, UT";"Tampa, FL (Metropolitan Area)";248.101467;16312.0;75
+"Savannah, GA";"Washington, DC (Metropolitan Area)";191.797896;27947.0;328
+"Springfield, MO";"Tampa, FL (Metropolitan Area)";153.7725;676.0;12
+"Sarasota/Bradenton, FL";"Washington, DC (Metropolitan Area)";173.515804;21268.0;224
+"Syracuse, NY";"Tampa, FL (Metropolitan Area)";155.664538;19113.0;130
+"Knoxville, TN";"New York City, NY (Metropolitan Area)";225.962018;26710.0;649
+"Knoxville, TN";"Miami, FL (Metropolitan Area)";195.16283;11620.0;106
+"Knoxville, TN";"Tampa, FL (Metropolitan Area)";175.608983;6088.0;59
+"Dallas/Fort Worth, TX";"Greensboro/High Point, NC";216.697857;9017.0;84
+"Dallas/Fort Worth, TX";"Mission/McAllen/Edinburg, TX";167.331364;15474.0;132
+"Dallas/Fort Worth, TX";"Palm Springs, CA";281.04875;1600.0;16
+"Pittsburgh, PA";"Washington, DC (Metropolitan Area)";222.203207;42195.0;343
+"Austin, TX";"Cleveland, OH (Metropolitan Area)";238.017813;3099.0;32
+"Austin, TX";"Columbus, OH";205.387143;2894.0;14
+"Austin, TX";"Houston, TX";125.144073;49853.0;248
+"Phoenix, AZ";"Wichita, KS";150.246042;4490.0;48
+"Phoenix, AZ";"Provo, UT";83.652162;6702.0;37
+"Hartford, CT";"Houston, TX";252.803474;17985.0;213
+"Bismarck/Mandan, ND";"Phoenix, AZ";206.391875;3309.0;32
+"Nashville, TN";"Norfolk, VA (Metropolitan Area)";182.860227;3566.0;44
+"Boston, MA (Metropolitan Area)";"Key West, FL";256.077917;1570.0;24
+"Boston, MA (Metropolitan Area)";"Rochester, NY";210.55663;21571.0;273
+"Burlington, VT";"New York City, NY (Metropolitan Area)";206.653181;36036.0;481
+"Columbia, SC";"Washington, DC (Metropolitan Area)";234.631745;21867.0;321
+"Columbia, SC";"New York City, NY (Metropolitan Area)";214.197466;21296.0;521
+"Chicago, IL";"Palm Springs, CA";269.175333;14599.0;120
+"Charlotte, NC";"Columbus, OH";253.837419;5848.0;31
+"Jacksonville, FL";"Phoenix, AZ";258.084063;5571.0;32
+"Jacksonville, FL";"San Francisco, CA (Metropolitan Area)";277.583333;20899.0;306
+"Des Moines, IA";"New York City, NY (Metropolitan Area)";282.266522;21927.0;578
+"Houston, TX";"Jackson/Vicksburg, MS";117.863836;18120.0;159
+"Houston, TX";"Little Rock, AR";137.664545;25309.0;220
+"Houston, TX";"San Antonio, TX";128.198068;55716.0;264
+"Fresno, CA";"Phoenix, AZ";180.753667;4554.0;30
+"New York City, NY (Metropolitan Area)";"Tucson, AZ";293.972909;33196.0;667
+"New York City, NY (Metropolitan Area)";"Palm Springs, CA";355.134983;12579.0;297
+"Fort Myers, FL";"Phoenix, AZ";286.405294;2644.0;17
+"Fayetteville, AR";"New York City, NY (Metropolitan Area)";325.504045;17258.0;398
+"Greenville/Spartanburg, SC";"Miami, FL (Metropolitan Area)";185.032;1425.0;20
+"Grand Rapids, MI";"Miami, FL (Metropolitan Area)";207.839886;9695.0;88
+"Miami, FL (Metropolitan Area)";"Omaha, NE";215.177195;7998.0;82
+"Miami, FL (Metropolitan Area)";"Pensacola, FL";213.350417;2606.0;24
+"Miami, FL (Metropolitan Area)";"Rochester, NY";176.173721;18369.0;172
+"Louisville, KY";"Phoenix, AZ";228.339545;7596.0;44
+"Memphis, TN";"Tampa, FL (Metropolitan Area)";157.963939;20993.0;132
+"Madison, WI";"Phoenix, AZ";243.947143;1650.0;7
+"Oklahoma City, OK";"Tampa, FL (Metropolitan Area)";168.33;221.0;2
+"Richmond, VA";"Tampa, FL (Metropolitan Area)";137.854776;7564.0;67
+"Reno, NV";"San Francisco, CA (Metropolitan Area)";121.955124;60348.0;322
+"Rochester, NY";"Tampa, FL (Metropolitan Area)";157.012941;25754.0;102
+"Syracuse, NY";"Washington, DC (Metropolitan Area)";209.044903;21843.0;308
+"Knoxville, TN";"Washington, DC (Metropolitan Area)";261.35996;16455.0;251
+"Atlantic City, NJ";"Miami, FL (Metropolitan Area)";140.928333;44890.0;174
+"Dallas/Fort Worth, TX";"Sarasota/Bradenton, FL";211.67;167.0;2
+"Aspen, CO";"New York City, NY (Metropolitan Area)";418.618156;5969.0;141
+"Aspen, CO";"Los Angeles, CA (Metropolitan Area)";291.155098;4746.0;102
+"Appleton, WI";"Phoenix, AZ";203.615714;1036.0;14
+"Bangor, ME";"Tampa, FL (Metropolitan Area)";186.1025;1120.0;16
+"Billings, MT";"Phoenix, AZ";166.514615;2066.0;26
+"Cleveland, OH (Metropolitan Area)";"New Orleans, LA";178.710081;11180.0;124
+"Bozeman, MT";"Phoenix, AZ";169.27;828.0;10
+"Chicago, IL";"Key West, FL";349.17625;742.0;8
+"Cedar Rapids/Iowa City, IA";"Tampa, FL (Metropolitan Area)";163.72125;528.0;8
+"Des Moines, IA";"Miami, FL (Metropolitan Area)";210.6525;1977.0;24
+"Houston, TX";"Tucson, AZ";222.605;980.0;14
+"Houston, TX";"Reno, NV";183.151548;10608.0;155
+"Eagle, CO";"New York City, NY (Metropolitan Area)";364.070526;10586.0;152
+"Eagle, CO";"Miami, FL (Metropolitan Area)";430.639667;2821.0;30
+"Fort Myers, FL";"San Francisco, CA (Metropolitan Area)";304.116905;2355.0;42
+"Flint, MI";"Tampa, FL (Metropolitan Area)";144.764533;12460.0;75
+"Fort Wayne, IN";"Tampa, FL (Metropolitan Area)";178.289;1434.0;20
+"Harlingen/San Benito, TX";"Houston, TX";121.669597;38326.0;248
+"Miami, FL (Metropolitan Area)";"Oklahoma City, OK";231.454167;779.0;12
+"Everett, WA";"Phoenix, AZ";198.836923;3369.0;13
+"Portland, ME";"Tampa, FL (Metropolitan Area)";153.806154;2070.0;13
+"Colorado Springs, CO";"New York City, NY (Metropolitan Area)";258.53356;8513.0;191
+"Chicago, IL";"Little Rock, AR";166.986599;26503.0;197
+"Oklahoma City, OK";"San Francisco, CA (Metropolitan Area)";221.517604;19340.0;288
+"Chicago, IL";"Wichita, KS";187.268961;6669.0;77
+"Cleveland, OH (Metropolitan Area)";"Raleigh/Durham, NC";174.232077;12874.0;130
+"Los Angeles, CA (Metropolitan Area)";"Rochester, NY";296.453661;9231.0;254
+"Detroit, MI";"St. Louis, MO";105.343947;21175.0;38
+"Dayton, OH";"Los Angeles, CA (Metropolitan Area)";281.946643;21190.0;423
+"Dayton, OH";"Washington, DC (Metropolitan Area)";205.332165;39946.0;328
+"Louisville, KY";"San Francisco, CA (Metropolitan Area)";255.149951;12412.0;204
+"Cleveland, OH (Metropolitan Area)";"West Palm Beach/Palm Beach, FL";168.807885;10072.0;104
+"Little Rock, AR";"Washington, DC (Metropolitan Area)";218.308731;27034.0;323
+"Las Vegas, NV";"Salt Lake City, UT";117.0125;3097.0;4
+"Baton Rouge, LA";"Washington, DC (Metropolitan Area)";230.405882;831.0;17
+"Boston, MA (Metropolitan Area)";"Tucson, AZ";274.968176;9533.0;159
+"Norfolk, VA (Metropolitan Area)";"San Francisco, CA (Metropolitan Area)";313.546247;15103.0;461
+"Flint, MI";"Miami, FL (Metropolitan Area)";145.798;1027.0;10
+"Tulsa, OK";"Washington, DC (Metropolitan Area)";231.438718;18420.0;273
+"San Francisco, CA (Metropolitan Area)";"Tulsa, OK";199.933712;8311.0;132
+"Las Vegas, NV";"Little Rock, AR";198.11;548.0;3
+"Chicago, IL";"Tulsa, OK";189.128584;29732.0;219
+"Dallas/Fort Worth, TX";"Oklahoma City, OK";121.9548;33567.0;200
+"Fayetteville, AR";"Los Angeles, CA (Metropolitan Area)";329.823034;6052.0;145
+"Madison, WI";"Washington, DC (Metropolitan Area)";207.72165;20286.0;303
+"Los Angeles, CA (Metropolitan Area)";"Madison, WI";276.783835;4776.0;133
+"Kansas City, MO";"Nashville, TN";89.913611;13199.0;36
+"Atlantic City, NJ";"Orlando, FL";97.386667;446.0;3
+"Memphis, TN";"San Francisco, CA (Metropolitan Area)";305.262525;19069.0;297
+"Detroit, MI";"San Antonio, TX";183.009143;4688.0;35
+"Albany, NY";"San Francisco, CA (Metropolitan Area)";291.313763;12132.0;186
+"Houston, TX";"Mission/McAllen/Edinburg, TX";123.877013;13076.0;154
+"Detroit, MI";"San Diego, CA";248.107619;9915.0;42
+"Amarillo, TX";"Houston, TX";146.238663;17766.0;187
+"New York City, NY (Metropolitan Area)";"Tulsa, OK";287.126413;17322.0;538
+"Dallas/Fort Worth, TX";"Wichita, KS";156.865;7479.0;50
+"Atlantic City, NJ";"Tampa, FL (Metropolitan Area)";107.268378;16557.0;74
+"Buffalo, NY";"San Francisco, CA (Metropolitan Area)";254.533881;17174.0;219
+"Washington, DC (Metropolitan Area)";"Wichita, KS";190.24;1315.0;25
+"Greensboro/High Point, NC";"Miami, FL (Metropolitan Area)";165.265323;12197.0;124
+"Boston, MA (Metropolitan Area)";"Memphis, TN";285.960254;19975.0;276
+"Denver, CO";"Kansas City, MO";130.119286;33624.0;42
+"Richmond, VA";"San Francisco, CA (Metropolitan Area)";319.875948;10272.0;153
+"Los Angeles, CA (Metropolitan Area)";"Pasco/Kennewick/Richland, WA";206.720632;3762.0;95
+"Corpus Christi, TX";"Dallas/Fort Worth, TX";142.978632;35431.0;212
+"Daytona Beach, FL";"New York City, NY (Metropolitan Area)";171.356351;16027.0;370
+"Columbia, SC";"Dallas/Fort Worth, TX";200.685;162.0;2
+"San Francisco, CA (Metropolitan Area)";"West Palm Beach/Palm Beach, FL";271.072807;6139.0;114
+"Sacramento, CA";"San Diego, CA";80.3764;19516.0;25
+"Detroit, MI";"Jacksonville, FL";158.735517;4998.0;29
+"Tampa, FL (Metropolitan Area)";"West Palm Beach/Palm Beach, FL";85.420882;6806.0;34
+"Chicago, IL";"Indianapolis, IN";122.070792;44527.0;202
+"Norfolk, VA (Metropolitan Area)";"Philadelphia, PA";208.608667;5052.0;60
+"Kansas City, MO";"San Antonio, TX";158.192222;7929.0;36
+"Louisville, KY";"Orlando, FL";97.054286;1877.0;7
+"Dayton, OH";"Tampa, FL (Metropolitan Area)";133.3384;14716.0;100
+"Boston, MA (Metropolitan Area)";"Melbourne, FL";142.017407;1213.0;27
+"Huntsville, AL";"New York City, NY (Metropolitan Area)";224.956154;532.0;26
+"Kansas City, MO";"Portland, OR";176.702449;8609.0;49
+"Allentown/Bethlehem/Easton, PA";"Chicago, IL";264.028286;2188.0;35
+"Chicago, IL";"Des Moines, IA";198.369202;22663.0;188
+"Dayton, OH";"New York City, NY (Metropolitan Area)";209.616334;31156.0;611
+"Cleveland, OH (Metropolitan Area)";"Kansas City, MO";164.831118;17679.0;152
+"Detroit, MI";"Las Vegas, NV";181.719318;33308.0;44
+"Detroit, MI";"Orlando, FL";132.023404;38012.0;47
+"Cleveland, OH (Metropolitan Area)";"Norfolk, VA (Metropolitan Area)";132.8075;970.0;24
+"Melbourne, FL";"New York City, NY (Metropolitan Area)";159.734046;8563.0;173
+"Atlantic City, NJ";"Boston, MA (Metropolitan Area)";144.745758;1671.0;33
+"Spokane, WA";"Washington, DC (Metropolitan Area)";277.868228;4299.0;79
+"Kansas City, MO";"St. Louis, MO";80.085676;19287.0;37
+"Detroit, MI";"Hartford, CT";272.261;5908.0;30
+"Chicago, IL";"Fayetteville, AR";306.484462;6812.0;65
+"Colorado Springs, CO";"San Francisco, CA (Metropolitan Area)";201.276667;12947.0;135
+"Detroit, MI";"Milwaukee, WI";158.187333;9409.0;30
+"Rochester, NY";"San Francisco, CA (Metropolitan Area)";333.50631;4474.0;84
+"Greensboro/High Point, NC";"Washington, DC (Metropolitan Area)";189.443066;8555.0;137
+"Jacksonville, FL";"Norfolk, VA (Metropolitan Area)";147.479518;20042.0;166
+"Chicago, IL";"Jackson/Vicksburg, MS";164.46375;12481.0;120
+"Los Angeles, CA (Metropolitan Area)";"San Diego, CA";102.354639;6590.0;97
+"Dayton, OH";"Orlando, FL";158.72;1345.0;6
+"Kansas City, MO";"Raleigh/Durham, NC";149.535278;7769.0;36
+"Dayton, OH";"San Francisco, CA (Metropolitan Area)";233.7625;4465.0;72
+"Boston, MA (Metropolitan Area)";"Dayton, OH";207.063744;14736.0;219
+"Baton Rouge, LA";"Dallas/Fort Worth, TX";158.56935;13352.0;123
+"Denver, CO";"Hartford, CT";300.525714;1321.0;7
+"New York City, NY (Metropolitan Area)";"Tallahassee, FL";205.922564;2293.0;78
+"Buffalo, NY";"Phoenix, AZ";242.281887;12681.0;53
+"Madison, WI";"Miami, FL (Metropolitan Area)";166.14;252.0;4
+"Denver, CO";"Detroit, MI";240.412286;13738.0;35
+"Boston, MA (Metropolitan Area)";"Grand Rapids, MI";230.164259;3228.0;54
+"Albuquerque, NM";"Miami, FL (Metropolitan Area)";196.312;716.0;10
+"Norfolk, VA (Metropolitan Area)";"St. Louis, MO";191.253478;3686.0;46
+"Greensboro/High Point, NC";"Los Angeles, CA (Metropolitan Area)";280.475308;4653.0;130
+"Lexington, KY";"New York City, NY (Metropolitan Area)";206.696596;2450.0;94
+"Las Vegas, NV";"Sacramento, CA";90.074643;17351.0;28
+"Charlotte, NC";"Detroit, MI";240.776552;6704.0;29
+"El Paso, TX";"San Francisco, CA (Metropolitan Area)";180.086865;18635.0;252
+"Boston, MA (Metropolitan Area)";"Syracuse, NY";192.061042;2711.0;48
+"Minneapolis/St. Paul, MN";"Sacramento, CA";260.672;799.0;5
+"Allentown/Bethlehem/Easton, PA";"Orlando, FL";193.266;1177.0;5
+"Boston, MA (Metropolitan Area)";"Colorado Springs, CO";276.919524;2358.0;42
+"Orlando, FL";"St. Louis, MO";154.43;2909.0;6
+"New York City, NY (Metropolitan Area)";"South Bend, IN";204.698657;1441.0;67
+"Las Vegas, NV";"St. Louis, MO";165.593333;2208.0;3
+"Las Vegas, NV";"Seattle, WA";116.568;9872.0;5
+"Cleveland, OH (Metropolitan Area)";"Salt Lake City, UT";223.510714;3139.0;42
+"Buffalo, NY";"Houston, TX";207.519;8993.0;90
+"Madison, WI";"San Francisco, CA (Metropolitan Area)";264.853162;7135.0;117
+"Cleveland, OH (Metropolitan Area)";"Hartford, CT";218.873542;9346.0;96
+"Bangor, ME";"New York City, NY (Metropolitan Area)";247.032581;1359.0;31
+"Corpus Christi, TX";"Houston, TX";106.779895;21031.0;191
+"Orlando, FL";"Toledo, OH";171.45;196.0;1
+"Norfolk, VA (Metropolitan Area)";"Washington, DC (Metropolitan Area)";234.482626;15751.0;358
+"Detroit, MI";"Louisville, KY";156.730294;6226.0;34
+"Detroit, MI";"Indianapolis, IN";127.21525;12664.0;40
+"Detroit, MI";"Kansas City, MO";161.391452;23030.0;62
+"Little Rock, AR";"New York City, NY (Metropolitan Area)";278.027968;14120.0;438
+"Dallas/Fort Worth, TX";"Dayton, OH";215.547935;19557.0;155
+"Sacramento, CA";"Seattle, WA";85.104091;18119.0;22
+"Chicago, IL";"Greensboro/High Point, NC";204.673008;13924.0;133
+"Kansas City, MO";"Milwaukee, WI";175.831111;7459.0;36
+"Melbourne, FL";"Washington, DC (Metropolitan Area)";189.889362;2044.0;47
+"Boston, MA (Metropolitan Area)";"Omaha, NE";222.598023;11102.0;177
+"Atlanta, GA (Metropolitan Area)";"Sacramento, CA";264.317619;3408.0;21
+"Boston, MA (Metropolitan Area)";"Oklahoma City, OK";201.192917;1271.0;24
+"Albany, NY";"Detroit, MI";152.4075;320.0;4
+"Burlington, VT";"Miami, FL (Metropolitan Area)";196.036667;2844.0;30
+"Boston, MA (Metropolitan Area)";"Greensboro/High Point, NC";185.554561;12519.0;171
+"Greensboro/High Point, NC";"Tampa, FL (Metropolitan Area)";118.66;2476.0;13
+"Jackson/Vicksburg, MS";"Los Angeles, CA (Metropolitan Area)";238.527143;1192.0;35
+"Kansas City, MO";"Orlando, FL";134.10439;28045.0;41
+"Dayton, OH";"Miami, FL (Metropolitan Area)";150.544576;11570.0;118
+"Huntsville, AL";"Los Angeles, CA (Metropolitan Area)";372.231333;758.0;30
+"Detroit, MI";"Reno, NV";156.875714;3320.0;21
+"Detroit, MI";"Nashville, TN";138.36175;18582.0;40
+"Los Angeles, CA (Metropolitan Area)";"Midland/Odessa, TX";203.357857;320.0;14
+"New York City, NY (Metropolitan Area)";"Philadelphia, PA";164.855373;1927.0;67
+"San Francisco, CA (Metropolitan Area)";"Syracuse, NY";264.071667;928.0;18
+"Boise, ID";"Washington, DC (Metropolitan Area)";280.166032;3614.0;63
+"Albany, NY";"Orlando, FL";172.618571;1968.0;7
+"Cleveland, OH (Metropolitan Area)";"Milwaukee, WI";192.102671;14701.0;146
+"Detroit, MI";"Portland, OR";263.5648;3840.0;25
+"Bellingham, WA";"Los Angeles, CA (Metropolitan Area)";170.796188;7065.0;160
+"Kansas City, MO";"San Diego, CA";155.945;14405.0;42
+"Bellingham, WA";"San Francisco, CA (Metropolitan Area)";170.975362;4875.0;69
+"Kansas City, MO";"Pittsburgh, PA";151.624545;3515.0;22
+"Kansas City, MO";"Seattle, WA";178.649444;15235.0;54
+"Miami, FL (Metropolitan Area)";"Plattsburgh, NY";195.508;8275.0;50
+"Sacramento, CA";"Spokane, WA";87.504286;2480.0;14
+"Greenville/Spartanburg, SC";"Orlando, FL";132.97;861.0;5
+"Gulfport/Biloxi, MS";"Miami, FL (Metropolitan Area)";160.501111;3250.0;36
+"Albuquerque, NM";"Las Vegas, NV";125.686667;2114.0;3
+"Chicago, IL";"Rochester, NY";219.305604;21716.0;182
+"Colorado Springs, CO";"Houston, TX";156.692468;8029.0;77
+"Albany, NY";"New York City, NY (Metropolitan Area)";141.564444;310.0;9
+"Las Vegas, NV";"Minneapolis/St. Paul, MN";156.28;4659.0;4
+"Seattle, WA";"Spokane, WA";72.45;1554.0;2
+"Cleveland, OH (Metropolitan Area)";"Detroit, MI";177.95475;3189.0;40
+"Cincinnati, OH";"Fort Myers, FL";165.024286;1066.0;7
+"Fort Myers, FL";"Philadelphia, PA";152.40875;2960.0;8
+"Atlanta, GA (Metropolitan Area)";"Hartford, CT";160.957143;4981.0;7
+"Las Vegas, NV";"Oklahoma City, OK";151.556667;1069.0;3
+"Atlanta, GA (Metropolitan Area)";"Kansas City, MO";138.842105;29083.0;38
+"Omaha, NE";"Orlando, FL";154.72;1960.0;7
+"Chicago, IL";"Dayton, OH";159.228137;11981.0;102
+"Tallahassee, FL";"Washington, DC (Metropolitan Area)";180.54619;4418.0;84
+"Detroit, MI";"Fort Myers, FL";136.097778;18781.0;36
+"Grand Rapids, MI";"Las Vegas, NV";177.305;413.0;2
+"Dallas/Fort Worth, TX";"Jackson/Vicksburg, MS";158.019167;10179.0;108
+"New York City, NY (Metropolitan Area)";"Steamboat Springs, CO";264.570385;367.0;26
+"Detroit, MI";"Pittsburgh, PA";235.511667;5131.0;24
+"Albuquerque, NM";"Kansas City, MO";149.616286;6172.0;35
+"Orlando, FL";"Seattle, WA";226.447143;2440.0;7
+"Fresno, CA";"Los Angeles, CA (Metropolitan Area)";118.77;704.0;21
+"Albuquerque, NM";"Sacramento, CA";126.765;848.0;6
+"Indianapolis, IN";"Kansas City, MO";105.125278;8792.0;36
+"Houston, TX";"West Palm Beach/Palm Beach, FL";191.813333;4849.0;69
+"Kansas City, MO";"New Orleans, LA";126.467667;7273.0;30
+"Sacramento, CA";"Salt Lake City, UT";98.298889;6998.0;18
+"Gulfport/Biloxi, MS";"Tampa, FL (Metropolitan Area)";94.268929;5434.0;28
+"Chicago, IL";"Grand Rapids, MI";173.027586;1841.0;29
+"Boston, MA (Metropolitan Area)";"Reno, NV";205.083333;346.0;6
+"Detroit, MI";"West Palm Beach/Palm Beach, FL";157.320625;11027.0;32
+"Flint, MI";"Washington, DC (Metropolitan Area)";180.383333;731.0;12
+"Kansas City, MO";"Las Vegas, NV";143.439302;31502.0;43
+"Atlanta, GA (Metropolitan Area)";"Detroit, MI";146.68186;31970.0;43
+"Grand Rapids, MI";"Minneapolis/St. Paul, MN";212.22;97.0;1
+"Chicago, IL";"Saginaw/Bay City/Midland, MI";112.3975;455.0;8
+"Cleveland, OH (Metropolitan Area)";"Jacksonville, FL";150.286538;1981.0;26
+"Orlando, FL";"Saginaw/Bay City/Midland, MI";117.75;136.0;1
+"Columbus, OH";"Nashville, TN";176.739286;5334.0;28
+"New York City, NY (Metropolitan Area)";"Roanoke, VA";163.814615;471.0;26
+"New Orleans, LA";"Norfolk, VA (Metropolitan Area)";139.804167;2853.0;36
+"Cedar Rapids/Iowa City, IA";"Chicago, IL";167.263333;318.0;3
+"Chicago, IL";"Harrisburg, PA";246.6784;16732.0;175
+"Kansas City, MO";"Norfolk, VA (Metropolitan Area)";144.521667;1023.0;12
+"Kansas City, MO";"Salt Lake City, UT";167.445405;8187.0;37
+"Detroit, MI";"Philadelphia, PA";160.883889;20522.0;36
+"Bloomington/Normal, IL";"Orlando, FL";205.45;168.0;1
+"Miami, FL (Metropolitan Area)";"Reno, NV";221.875;257.0;4
+"Boston, MA (Metropolitan Area)";"Madison, WI";214.096232;3907.0;69
+"Kansas City, MO";"Philadelphia, PA";213.304146;11927.0;41
+"Las Vegas, NV";"Peoria, IL";150.906667;597.0;3
+"Eagle, CO";"Los Angeles, CA (Metropolitan Area)";213.453333;317.0;9
+"Harrisburg, PA";"Los Angeles, CA (Metropolitan Area)";250.528889;538.0;18
+"Charlotte, NC";"Kansas City, MO";187.851053;3521.0;19
+"Norfolk, VA (Metropolitan Area)";"Phoenix, AZ";232.060556;1269.0;18
+"Dallas/Fort Worth, TX";"Eagle, CO";189.796667;1185.0;12
+"Knoxville, TN";"Los Angeles, CA (Metropolitan Area)";275.917778;352.0;18
+"Denver, CO";"Sacramento, CA";231.157222;5405.0;18
+"Birmingham, AL";"Detroit, MI";175.805484;3676.0;31
+"Cincinnati, OH";"Seattle, WA";283.13;327.0;2
+"Aspen, CO";"Chicago, IL";200.169167;767.0;12
+"Harrisburg, PA";"Miami, FL (Metropolitan Area)";160.24125;1155.0;16
+"Chicago, IL";"Springfield, IL";122.618333;324.0;12
+"Detroit, MI";"Memphis, TN";247.691429;4481.0;28
+"Orlando, FL";"Syracuse, NY";172.837143;2073.0;7
+"Pittsburgh, PA";"Seattle, WA";299.11;341.0;2
+"Los Angeles, CA (Metropolitan Area)";"Salinas/Monterey, CA";217.794839;2906.0;62
+"Montgomery, AL";"Washington, DC (Metropolitan Area)";217.6325;98.0;4
+"Dallas/Fort Worth, TX";"Fayetteville, AR";221.741905;3312.0;21
+"Orlando, FL";"Raleigh/Durham, NC";122.418571;1953.0;7
+"Orlando, FL";"Richmond, VA";147.601429;1074.0;7
+"Cleveland, OH (Metropolitan Area)";"Portland, OR";260.7725;3371.0;36
+"Detroit, MI";"Seattle, WA";236.276757;9653.0;37
+"Kansas City, MO";"Oklahoma City, OK";85.089091;7477.0;33
+"Boston, MA (Metropolitan Area)";"Daytona Beach, FL";136.095333;1477.0;30
+"Kansas City, MO";"Minneapolis/St. Paul, MN";227.236316;15688.0;38
+"Baton Rouge, LA";"Houston, TX";131.41697;1622.0;33
+"Detroit, MI";"Minneapolis/St. Paul, MN";263.155185;16788.0;27
+"Birmingham, AL";"Boston, MA (Metropolitan Area)";194.763158;3151.0;57
+"Minneapolis/St. Paul, MN";"Norfolk, VA (Metropolitan Area)";206.677143;1261.0;14
+"Cleveland, OH (Metropolitan Area)";"Greensboro/High Point, NC";149.35;317.0;6
+"Little Rock, AR";"San Francisco, CA (Metropolitan Area)";209.615758;1607.0;33
+"Atlantic City, NJ";"Cleveland, OH (Metropolitan Area)";133.395;368.0;4
+"Medford, OR";"San Francisco, CA (Metropolitan Area)";127.883333;145.0;3
+"Los Angeles, CA (Metropolitan Area)";"Springfield, MO";266.400256;912.0;39
+"Fort Myers, FL";"Hartford, CT";139.464375;3132.0;16
+"Cleveland, OH (Metropolitan Area)";"Indianapolis, IN";168.9956;4940.0;50
+"Hartford, CT";"Philadelphia, PA";238.334286;1815.0;7
+"South Bend, IN";"Tampa, FL (Metropolitan Area)";168.63;1527.0;22
+"Portland, OR";"Sacramento, CA";92.213889;10241.0;18
+"Tallahassee, FL";"Tampa, FL (Metropolitan Area)";107.679118;7541.0;34
+"Boston, MA (Metropolitan Area)";"Harrisburg, PA";203.31381;1071.0;21
+"Grand Rapids, MI";"San Francisco, CA (Metropolitan Area)";262.8895;3458.0;60
+"Chicago, IL";"Lexington, KY";171.876316;1107.0;19
+"Memphis, TN";"Minneapolis/St. Paul, MN";263.19;140.0;1
+"Cleveland, OH (Metropolitan Area)";"San Antonio, TX";182.850714;1037.0;14
+"Miami, FL (Metropolitan Area)";"Portland, ME";196.165;537.0;8
+"Lexington, KY";"Washington, DC (Metropolitan Area)";161.24;217.0;8
+"Cincinnati, OH";"Cleveland, OH (Metropolitan Area)";177.755;564.0;10
+"Dallas/Fort Worth, TX";"Springfield, MO";109.166;560.0;5
+"Orlando, FL";"Portland, OR";248.142857;977.0;7
+"Detroit, MI";"Raleigh/Durham, NC";205.3;6897.0;31
+"Austin, TX";"Kansas City, MO";151.39913;4322.0;23
+"Detroit, MI";"Salt Lake City, UT";203.993462;4748.0;26
+"Atlanta, GA (Metropolitan Area)";"Las Vegas, NV";198.273333;4496.0;3
+"Lansing, MI";"Washington, DC (Metropolitan Area)";177.0575;103.0;4
+"Detroit, MI";"New Orleans, LA";159.764444;7018.0;36
+"Las Vegas, NV";"Orlando, FL";173.117;5565.0;10
+"Fort Myers, FL";"Indianapolis, IN";120.05125;3853.0;8
+"Orlando, FL";"Salt Lake City, UT";183.118333;1639.0;6
+"Las Vegas, NV";"Spokane, WA";153.363333;875.0;3
+"Orlando, FL";"Rochester, NY";146.277143;1853.0;7
+"Asheville, NC";"Chicago, IL";171.512;1086.0;10
+"Atlanta, GA (Metropolitan Area)";"Fort Myers, FL";145.795;2026.0;8
+"Hartford, CT";"Pittsburgh, PA";248.531429;1292.0;7
+"Detroit, MI";"Myrtle Beach, SC";123.192273;4378.0;22
+"Columbus, OH";"Kansas City, MO";129.3848;4483.0;25
+"Las Vegas, NV";"Omaha, NE";143.976667;1416.0;3
+"Las Vegas, NV";"Reno, NV";93.57;4710.0;3
+"Greensboro/High Point, NC";"Houston, TX";163.257241;1519.0;29
+"Jacksonville, FL";"Kansas City, MO";127.166667;488.0;3
+"New Orleans, LA";"Orlando, FL";102.4375;2250.0;8
+"Hartford, CT";"West Palm Beach/Palm Beach, FL";128.251429;4000.0;7
+"Boston, MA (Metropolitan Area)";"Greenville/Spartanburg, SC";159.585714;1236.0;21
+"Daytona Beach, FL";"Washington, DC (Metropolitan Area)";178.057778;637.0;18
+"Orlando, FL";"Sacramento, CA";201.366429;2400.0;14
+"Augusta, GA";"New York City, NY (Metropolitan Area)";202.518571;104.0;7
+"Austin, TX";"Las Vegas, NV";165.013333;1808.0;3
+"Sacramento, CA";"St. Louis, MO";207.767;1578.0;10
+"Detroit, MI";"Oklahoma City, OK";137.981111;953.0;9
+"Indianapolis, IN";"Las Vegas, NV";152.216667;2903.0;3
+"Orlando, FL";"Pittsburgh, PA";141.5775;3292.0;8
+"Birmingham, AL";"Orlando, FL";111.075;1105.0;6
+"Mobile, AL";"Washington, DC (Metropolitan Area)";243.411667;303.0;12
+"Birmingham, AL";"San Francisco, CA (Metropolitan Area)";209.735417;1336.0;24
+"Norfolk, VA (Metropolitan Area)";"Pittsburgh, PA";139.7875;254.0;4
+"Eagle, CO";"San Francisco, CA (Metropolitan Area)";231.320833;629.0;12
+"Hartford, CT";"Minneapolis/St. Paul, MN";345.91;1525.0;8
+"Hartford, CT";"Las Vegas, NV";201.821;2701.0;10
+"Portland, OR";"Seattle, WA";111.93;1338.0;2
+"Kansas City, MO";"Sacramento, CA";169.024524;8264.0;42
+"Las Vegas, NV";"West Palm Beach/Palm Beach, FL";198.835;343.0;2
+"Salt Lake City, UT";"Seattle, WA";91.93;2036.0;2
+"Chicago, IL";"Eagle, CO";196.086364;1740.0;22
+"Billings, MT";"Los Angeles, CA (Metropolitan Area)";181.146;173.0;5
+"Chicago, IL";"Toledo, OH";118.880909;838.0;11
+"Detroit, MI";"Greensboro/High Point, NC";218.035;374.0;4
+"Bellingham, WA";"Las Vegas, NV";137.325;414.0;2
+"Burlington, VT";"Tampa, FL (Metropolitan Area)";138.332;798.0;5
+"Las Vegas, NV";"Mission/McAllen/Edinburg, TX";161.08;406.0;2
+"Chicago, IL";"Columbia, SC";170.14;696.0;9
+"Pensacola, FL";"Tampa, FL (Metropolitan Area)";127.717143;976.0;7
+"Atlantic City, NJ";"Detroit, MI";71.924286;3078.0;14
+"Minneapolis/St. Paul, MN";"Seattle, WA";219.86;2194.0;3
+"Fort Myers, FL";"Milwaukee, WI";153.442;2420.0;15
+"Minot, ND";"Phoenix, AZ";214.1475;1090.0;16
+"San Antonio, TX";"Seattle, WA";156.6;479.0;2
+"Bullhead City, AZ";"San Francisco, CA (Metropolitan Area)";87.306667;149.0;3
+"Bellingham, WA";"Phoenix, AZ";141.8575;3282.0;32
+"Knoxville, TN";"Orlando, FL";171.476;992.0;5
+"Detroit, MI";"Tulsa, OK";164.187143;311.0;7
+"Cincinnati, OH";"Detroit, MI";219.265263;2259.0;19
+"Detroit, MI";"Little Rock, AR";173.735;242.0;4
+"Atlanta, GA (Metropolitan Area)";"Orlando, FL";111.86;7781.0;6
+"Albany, NY";"Las Vegas, NV";181.123333;818.0;3
+"Kansas City, MO";"Louisville, KY";89.9975;613.0;4
+"Fresno, CA";"Las Vegas, NV";96.306667;833.0;3
+"Hartford, CT";"Orlando, FL";117.657143;10419.0;14
+"Indianapolis, IN";"Orlando, FL";105.031429;5134.0;7
+"Colorado Springs, CO";"Detroit, MI";189.44;128.0;1
+"Birmingham, AL";"Las Vegas, NV";187.046667;708.0;3
+"New York City, NY (Metropolitan Area)";"Wichita, KS";200.525;177.0;6
+"Los Angeles, CA (Metropolitan Area)";"Lubbock, TX";170.3;107.0;5
+"Oklahoma City, OK";"Orlando, FL";130.895;575.0;4
+"Chicago, IL";"Trenton, NJ";94.53;2156.0;12
+"Fort Myers, FL";"St. Louis, MO";155.074286;1314.0;7
+"Boise, ID";"Las Vegas, NV";127.266667;883.0;3
+"Cincinnati, OH";"Kansas City, MO";185.905;700.0;4
+"Cincinnati, OH";"Minneapolis/St. Paul, MN";255.81;137.0;1
+"Orlando, FL";"San Antonio, TX";189.16;1606.0;7
+"Hartford, CT";"Milwaukee, WI";226.52;154.0;1
+"Hartford, CT";"New York City, NY (Metropolitan Area)";125.33875;263.0;8
+"Dayton, OH";"Las Vegas, NV";184.8;341.0;2
+"Albany, NY";"Fort Myers, FL";295.845;108.0;2
+"Fort Myers, FL";"Las Vegas, NV";207.14;189.0;1
+"Hartford, CT";"St. Louis, MO";282.73;1017.0;6
+"Cleveland, OH (Metropolitan Area)";"Louisville, KY";149.69;538.0;8
+"Memphis, TN";"Orlando, FL";126.911429;1920.0;7
+"Fort Myers, FL";"Syracuse, NY";157.04;95.0;1
+"Orlando, FL";"Philadelphia, PA";125.351429;9103.0;7
+"Cedar Rapids/Iowa City, IA";"Washington, DC (Metropolitan Area)";206.26;215.0;8
+"Buffalo, NY";"Orlando, FL";157.663333;2233.0;6
+"Charlotte, NC";"Orlando, FL";167.076667;1572.0;6
+"Detroit, MI";"Sarasota/Bradenton, FL";168.021765;2537.0;17
+"Chicago, IL";"Evansville, IN";216.961667;199.0;6
+"Des Moines, IA";"San Francisco, CA (Metropolitan Area)";270.760476;2533.0;42
+"Orlando, FL";"Portland, ME";127.785;326.0;2
+"Columbus, OH";"St. Louis, MO";172.2536;5173.0;25
+"Las Vegas, NV";"San Antonio, TX";165.11;2062.0;3
+"Burlington, VT";"Orlando, FL";121.18;116.0;1
+"Hartford, CT";"Seattle, WA";279.514;837.0;5
+"Milwaukee, WI";"Orlando, FL";112.14;4229.0;6
+"Nashville, TN";"Orlando, FL";113.0;2882.0;7
+"Jacksonville, FL";"Tampa, FL (Metropolitan Area)";79.585;6529.0;32
+"Oklahoma City, OK";"Seattle, WA";169.82;339.0;2
+"San Diego, CA";"Seattle, WA";113.3;2875.0;2
+"Greenville/Spartanburg, SC";"Tampa, FL (Metropolitan Area)";161.27;560.0;6
+"Dallas/Fort Worth, TX";"Shreveport, LA";101.1;218.0;2
+"Boston, MA (Metropolitan Area)";"Trenton, NJ";101.515;418.0;2
+"Cincinnati, OH";"Orlando, FL";185.325;1935.0;6
+"Bangor, ME";"Washington, DC (Metropolitan Area)";237.69;171.0;3
+"Baton Rouge, LA";"New York City, NY (Metropolitan Area)";306.008333;210.0;6
+"Buffalo, NY";"Detroit, MI";249.99;187.0;2
+"Norfolk, VA (Metropolitan Area)";"San Antonio, TX";202.298571;1052.0;14
+"Miami, FL (Metropolitan Area)";"Worcester, MA";176.385;1296.0;12
+"El Paso, TX";"Las Vegas, NV";121.726667;1359.0;3
+"Boston, MA (Metropolitan Area)";"Knoxville, TN";253.423333;606.0;9
+"Hartford, CT";"Indianapolis, IN";182.913333;461.0;3
+"Las Vegas, NV";"Richmond, VA";230.61;171.0;1
+"Fort Myers, FL";"Minneapolis/St. Paul, MN";192.82875;2425.0;8
+"Austin, TX";"Detroit, MI";193.553333;2193.0;15
+"Charlotte, NC";"Hartford, CT";255.738571;1288.0;7
+"Reno, NV";"Seattle, WA";73.48;1285.0;2
+"Chattanooga, TN";"New York City, NY (Metropolitan Area)";241.331875;823.0;32
+"Jackson/Vicksburg, MS";"New York City, NY (Metropolitan Area)";262.743333;183.0;6
+"Hartford, CT";"New Orleans, LA";128.403333;499.0;3
+"Dayton, OH";"Houston, TX";160.0;181.0;2
+"Columbus, OH";"Detroit, MI";241.42;93.0;1
+"Kansas City, MO";"Tulsa, OK";73.9375;567.0;4
+"Minneapolis/St. Paul, MN";"Orlando, FL";207.74;3445.0;6
+"Dallas/Fort Worth, TX";"Gulfport/Biloxi, MS";118.32;173.0;2
+"Minneapolis/St. Paul, MN";"Tucson, AZ";201.33;190.0;1
+"Hartford, CT";"Sarasota/Bradenton, FL";131.03;124.0;1
+"Denver, CO";"Seattle, WA";159.47;2627.0;2
+"Colorado Springs, CO";"Miami, FL (Metropolitan Area)";168.145;407.0;4
+"Lexington, KY";"Los Angeles, CA (Metropolitan Area)";233.199;506.0;10
+"Hartford, CT";"Jacksonville, FL";117.74;453.0;3
+"New York City, NY (Metropolitan Area)";"Sanford, FL";106.35;201.0;1
+"Denver, CO";"Minneapolis/St. Paul, MN";164.61;694.0;1
+"Chicago, IL";"New Haven, CT";284.1775;218.0;4
+"Greensboro/High Point, NC";"Orlando, FL";141.048333;1268.0;6
+"Minneapolis/St. Paul, MN";"Philadelphia, PA";323.41;290.0;1
+"Seattle, WA";"St. Louis, MO";218.13;878.0;2
+"Detroit, MI";"Tucson, AZ";268.085;97.0;2
+"Fort Myers, FL";"Kansas City, MO";156.309091;1918.0;11
+"Colorado Springs, CO";"Orlando, FL";154.7925;926.0;4
+"Buffalo, NY";"Las Vegas, NV";169.133333;1322.0;3
+"Charlotte, NC";"Las Vegas, NV";201.39;1391.0;3
+"Peoria, IL";"Phoenix, AZ";182.9015;1361.0;20
+"Hartford, CT";"San Diego, CA";270.843333;469.0;3
+"Las Vegas, NV";"New Orleans, LA";194.286667;940.0;3
+"Austin, TX";"Minneapolis/St. Paul, MN";324.06;98.0;1
+"Chicago, IL";"Lincoln, NE";178.053;439.0;10
+"Las Vegas, NV";"Raleigh/Durham, NC";179.766667;1521.0;3
+"Lexington, KY";"Miami, FL (Metropolitan Area)";209.518333;1856.0;24
+"Grand Rapids, MI";"Orlando, FL";137.69;1074.0;6
+"Chicago, IL";"Flint, MI";76.805;94.0;2
+"Detroit, MI";"Greenville/Spartanburg, SC";265.98;138.0;1
+"Colorado Springs, CO";"Las Vegas, NV";110.496667;1116.0;3
+"Fort Myers, FL";"Pittsburgh, PA";144.752222;1722.0;9
+"Chicago, IL";"Lansing, MI";82.58;100.0;2
+"Las Vegas, NV";"Louisville, KY";178.503333;865.0;3
+"Eureka/Arcata, CA";"Los Angeles, CA (Metropolitan Area)";141.1875;541.0;12
+"Orlando, FL";"San Diego, CA";282.76875;1124.0;8
+"Indianapolis, IN";"Seattle, WA";197.115;452.0;2
+"Los Angeles, CA (Metropolitan Area)";"Pensacola, FL";220.472778;367.0;18
+"Grand Forks, ND";"Phoenix, AZ";253.938333;489.0;6
+"Las Vegas, NV";"South Bend, IN";154.19;166.0;1
+"Austin, TX";"Orlando, FL";156.472857;906.0;7
+"Flint, MI";"Las Vegas, NV";143.24;518.0;2
+"Las Vegas, NV";"Philadelphia, PA";180.086667;4759.0;3
+"Dallas/Fort Worth, TX";"South Bend, IN";125.4;137.0;1
+"Los Angeles, CA (Metropolitan Area)";"Sioux Falls, SD";165.44;96.0;4
+"Hartford, CT";"Kansas City, MO";163.66;159.0;1
+"Albuquerque, NM";"Tampa, FL (Metropolitan Area)";153.738;850.0;5
+"Greensboro/High Point, NC";"San Francisco, CA (Metropolitan Area)";320.533333;171.0;3
+"Las Vegas, NV";"Pittsburgh, PA";163.67;2333.0;3
+"Las Vegas, NV";"Memphis, TN";247.023333;563.0;3
+"Minneapolis/St. Paul, MN";"Salt Lake City, UT";216.47;182.0;1
+"Miami, FL (Metropolitan Area)";"Niagara Falls, NY";102.736667;537.0;3
+"Atlanta, GA (Metropolitan Area)";"Seattle, WA";253.32;1332.0;2
+"Hartford, CT";"Raleigh/Durham, NC";158.008571;1491.0;7
+"New Orleans, LA";"Seattle, WA";206.715;463.0;2
+"Seattle, WA";"Tulsa, OK";179.485;281.0;2
+"Fort Myers, FL";"Grand Rapids, MI";147.376667;366.0;3
+"Las Vegas, NV";"Portland, OR";133.266667;4068.0;3
+"Colorado Springs, CO";"Kansas City, MO";94.335;773.0;4
+"Nashville, TN";"Seattle, WA";198.415;414.0;2
+"Minneapolis/St. Paul, MN";"New Orleans, LA";244.34;162.0;1
+"Colorado Springs, CO";"Seattle, WA";111.45;405.0;1
+"Dallas/Fort Worth, TX";"Rochester, NY";158.32;166.0;1
+"Albuquerque, NM";"Seattle, WA";137.3;599.0;2
+"Denver, CO";"Las Vegas, NV";123.92;5867.0;3
+"Las Vegas, NV";"Nashville, TN";172.473333;1500.0;3
+"Birmingham, AL";"Phoenix, AZ";238.22;232.0;2
+"Lansing, MI";"Las Vegas, NV";148.46;166.0;1
+"Miami, FL (Metropolitan Area)";"Tulsa, OK";199.415;159.0;2
+"Fargo, ND";"Minneapolis/St. Paul, MN";84.45;100.0;1
+"Des Moines, IA";"Las Vegas, NV";158.463333;710.0;3
+"Cincinnati, OH";"Hartford, CT";264.245;287.0;2
+"Las Vegas, NV";"Milwaukee, WI";147.686667;2478.0;3
+"Las Vegas, NV";"San Diego, CA";94.253333;6311.0;3
+"Las Vegas, NV";"Tulsa, OK";177.713333;668.0;3
+"Las Vegas, NV";"Tucson, AZ";86.53;1990.0;3
+"Miami, FL (Metropolitan Area)";"Toledo, OH";128.35;136.0;2
+"Minneapolis/St. Paul, MN";"Pittsburgh, PA";202.53;147.0;1
+"Minneapolis/St. Paul, MN";"San Diego, CA";249.26;305.0;1
+"Des Moines, IA";"Orlando, FL";176.38;259.0;2
+"Jacksonville, FL";"Las Vegas, NV";197.286667;767.0;3
+"Austin, TX";"Seattle, WA";171.81;415.0;2
+"Concord, NC";"Miami, FL (Metropolitan Area)";92.94;1188.0;5
+"Cedar Rapids/Iowa City, IA";"Las Vegas, NV";155.82;362.0;2
+"Albuquerque, NM";"Detroit, MI";164.953333;243.0;3
+"Charlotte, NC";"Minneapolis/St. Paul, MN";274.4;111.0;1
+"Las Vegas, NV";"Wichita, KS";145.103333;637.0;3
+"Cincinnati, OH";"Las Vegas, NV";234.416667;797.0;3
+"Buffalo, NY";"Fort Myers, FL";151.526667;342.0;3
+"Albuquerque, NM";"Minneapolis/St. Paul, MN";205.86;109.0;1
+"Denver, CO";"Orlando, FL";199.78;3680.0;7
+"Indianapolis, IN";"Minneapolis/St. Paul, MN";266.36;207.0;1
+"Palm Springs, CA";"Seattle, WA";128.59;247.0;1
+"Orlando, FL";"Tulsa, OK";121.07;129.0;1
+"Atlanta, GA (Metropolitan Area)";"Minneapolis/St. Paul, MN";281.26;479.0;1
+"Charlotte, NC";"Seattle, WA";304.91;128.0;1
+"Latrobe, PA";"Miami, FL (Metropolitan Area)";102.316667;645.0;3
+"Missoula, MT";"San Francisco, CA (Metropolitan Area)";169.423333;186.0;3
+"Las Vegas, NV";"Madison, WI";153.2;189.0;1
+"Harrisburg, PA";"Orlando, FL";129.14;369.0;2
+"Minneapolis/St. Paul, MN";"West Palm Beach/Palm Beach, FL";214.35;130.0;1
+"Minneapolis/St. Paul, MN";"San Antonio, TX";244.16;107.0;1
+"Dallas/Fort Worth, TX";"Huntsville, AL";215.5;274.0;5
+"Fort Collins/Loveland, CO";"Las Vegas, NV";111.8;187.0;1
+"Minneapolis/St. Paul, MN";"Portland, OR";297.28;143.0;1
+"Denver, CO";"Fort Myers, FL";231.37;103.0;1
+"Boise, ID";"Seattle, WA";95.895;651.0;2
+"Philadelphia, PA";"Seattle, WA";315.965;762.0;2
+"Fort Myers, FL";"Rochester, NY";142.35;116.0;1
+"Omaha, NE";"Seattle, WA";152.38;373.0;2
+"Orlando, FL";"Sioux Falls, SD";126.17;114.0;1
+"Minneapolis/St. Paul, MN";"St. Louis, MO";207.55;370.0;1
+"Las Vegas, NV";"Springfield, MO";150.21;172.0;1
+"Fort Myers, FL";"Louisville, KY";109.97;126.0;1
+"Sacramento, CA";"San Antonio, TX";128.44;132.0;1
+"Minneapolis/St. Paul, MN";"Nashville, TN";238.12;112.0;1
+"Las Vegas, NV";"Syracuse, NY";182.48;164.0;1
+"Milwaukee, WI";"Seattle, WA";232.41;175.0;1
+"Chattanooga, TN";"Orlando, FL";135.29;133.0;1
+"Nashville, TN";"Sacramento, CA";140.06;141.0;1
+"Minneapolis/St. Paul, MN";"Omaha, NE";160.61;158.0;1
+"Detroit, MI";"Omaha, NE";109.29;125.0;1
+"Seattle, WA";"Tucson, AZ";124.275;443.0;2
+"Milwaukee, WI";"Minneapolis/St. Paul, MN";186.26;330.0;1
+"Las Vegas, NV";"Sioux Falls, SD";132.74;189.0;1
+"Detroit, MI";"Sacramento, CA";198.76;177.0;1
+"Miami, FL (Metropolitan Area)";"Trenton, NJ";91.306667;390.0;3
+"Charleston, SC";"San Francisco, CA (Metropolitan Area)";314.747222;1052.0;18
+"Columbus, OH";"Salt Lake City, UT";235.6;291.0;3
+"Columbus, OH";"New Orleans, LA";130.7825;437.0;4
+"Everett, WA";"Los Angeles, CA (Metropolitan Area)";198.220938;3079.0;32
+"Everett, WA";"San Francisco, CA (Metropolitan Area)";154.165417;2982.0;24
+"Burlington, VT";"Chicago, IL";305.1;658.0;6
+"Charlottesville, VA";"New York City, NY (Metropolitan Area)";252.915385;645.0;13
+"Columbus, OH";"Raleigh/Durham, NC";176.69;208.0;1
+"Phoenix, AZ";"Rapid City, SD";146.655;393.0;8
+"Phoenix, AZ";"Rockford, IL";93.31;120.0;2
+"Phoenix, AZ";"South Bend, IN";161.3675;123.0;4
+"Phoenix, AZ";"Springfield, MO";161.02;467.0;10
+"Belleville, IL";"Tampa, FL (Metropolitan Area)";72.15;28.0;1
+"Columbia, SC";"Los Angeles, CA (Metropolitan Area)";237.146;29.0;5
+"Dallas/Fort Worth, TX";"Portland, ME";112.9575;100.0;4
+"Dallas/Fort Worth, TX";"Fort Wayne, IN";208.21;28.0;1
+"Fort Wayne, IN";"Phoenix, AZ";157.37;31.0;2
+"Greenville/Spartanburg, SC";"Los Angeles, CA (Metropolitan Area)";226.7575;117.0;8
+"Houston, TX";"Spokane, WA";184.025;97.0;4
+"Idaho Falls, ID";"Phoenix, AZ";164.893333;240.0;6
+"Columbus, OH";"Punta Gorda, FL";90.31;28.0;1
+"Lexington, KY";"Tampa, FL (Metropolitan Area)";147.48;199.0;4
+"Harrisburg, PA";"Tampa, FL (Metropolitan Area)";146.18;114.0;4
+"Medford, OR";"Phoenix, AZ";166.856667;108.0;3
+"Phoenix, AZ";"Richmond, VA";246.646667;341.0;3
+"Peoria, IL";"Tampa, FL (Metropolitan Area)";128.5825;123.0;4
+"Tampa, FL (Metropolitan Area)";"Tulsa, OK";131.105;34.0;2
+"Pasco/Kennewick/Richland, WA";"Phoenix, AZ";150.636667;269.0;6
+"Boston, MA (Metropolitan Area)";"Punta Gorda, FL";89.94;32.0;1
+"Sacramento, CA";"Tampa, FL (Metropolitan Area)";239.516;460.0;5
+"Nantucket, MA";"Washington, DC (Metropolitan Area)";190.48;71.0;2
+"Dallas/Fort Worth, TX";"Kalispell, MT";177.245;108.0;2
+"Dallas/Fort Worth, TX";"Jackson, WY";232.68;190.0;3
+"Dallas/Fort Worth, TX";"Traverse City, MI";202.7;73.0;1
+"Chicago, IL";"Kalispell, MT";227.77;79.0;1
+"Chicago, IL";"Jackson, WY";249.08;122.0;1
+"Columbus, OH";"Portland, OR";208.35;66.0;1
+"Jackson, WY";"Washington, DC (Metropolitan Area)";293.996667;80.0;3
+"Dallas/Fort Worth, TX";"Key West, FL";305.59;76.0;2
+"Charleston, SC";"Phoenix, AZ";254.96;281.0;2
+"Houston, TX";"Knoxville, TN";211.128333;548.0;6
+"Little Rock, AR";"Phoenix, AZ";179.5;81.0;1
+"Bend/Redmond, OR";"Phoenix, AZ";120.835;183.0;4
+"Dallas/Fort Worth, TX";"Montrose/Delta, CO";177.63;119.0;2
+"Dallas/Fort Worth, TX";"Steamboat Springs, CO";183.495;106.0;2
+"Aspen, CO";"Dallas/Fort Worth, TX";292.48;87.0;1
+"Aspen, CO";"Miami, FL (Metropolitan Area)";398.735;104.0;2
+"Appleton, WI";"Tampa, FL (Metropolitan Area)";163.565;116.0;2
+"Phoenix, AZ";"St. Cloud, MN";97.39;99.0;1
+"Missoula, MT";"Phoenix, AZ";159.4;83.0;2
+"Chicago, IL";"Panama City, FL";184.9625;269.0;4
+"Chicago, IL";"Steamboat Springs, CO";154.065;101.0;2
+"Sioux Falls, SD";"Tampa, FL (Metropolitan Area)";171.36;82.0;2
+"Miami, FL (Metropolitan Area)";"Savannah, GA";195.56;278.0;4
+"Tampa, FL (Metropolitan Area)";"Toledo, OH";120.315;82.0;2
+"Cleveland, OH (Metropolitan Area)";"Savannah, GA";152.52;160.0;2
+"Hilton Head, SC";"New York City, NY (Metropolitan Area)";189.89;164.0;5
+"Ashland, WV";"Tampa, FL (Metropolitan Area)";172.01;158.0;2
+"Miami, FL (Metropolitan Area)";"Myrtle Beach, SC";183.9;459.0;4
+"Miami, FL (Metropolitan Area)";"New Haven, CT";121.195714;1975.0;7
+"Asheville, NC";"Boston, MA (Metropolitan Area)";218.314444;891.0;9
+"El Paso, TX";"Miami, FL (Metropolitan Area)";391.13;214.0;2
+"New Haven, CT";"Tampa, FL (Metropolitan Area)";112.316;1322.0;5
+"Tampa, FL (Metropolitan Area)";"Trenton, NJ";95.855;970.0;4
+"Charleston, SC";"Cleveland, OH (Metropolitan Area)";171.515;479.0;4
+"Charleston, SC";"Tampa, FL (Metropolitan Area)";138.535;463.0;2
+"Los Angeles, CA (Metropolitan Area)";"Provo, UT";79.9275;1654.0;8
+"Des Moines, IA";"Houston, TX";180.8175;447.0;4
+"New York City, NY (Metropolitan Area)";"Vero Beach, FL";136.6;346.0;2
+"Grand Rapids, MI";"Houston, TX";283.365;201.0;2
