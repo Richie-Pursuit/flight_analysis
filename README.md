@@ -1,6 +1,6 @@
 ## Flight Analysis Project
 
-This project leverages MySQL to analyze flight data sourced from the Bureau of Transportation Statistics and Kaggle. Using advanced SQL techniques such as Common Table Expressions (CTEs), joins, and aggregations, the data is transformed and explored to uncover insights into flight patterns, airline performance, and airport usage. The analysis aims to provide a comprehensive understanding of trends within the U.S. airline industry.
+This project leverages MySQL to analyze flight data sourced from the Bureau of Transportation Statistics and Kaggle. Using advanced SQL techniques such as Common Table Expressions (CTEs), window functions, and joins, this analysis uncovers key insights into flight patterns, airline performance, and airport usage. The project demonstrates data cleaning, transformation, and analysis workflows that can power business intelligence tools.
 
 ## Data Sources
 
